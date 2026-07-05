@@ -1,59 +1,79 @@
-import requests
-import base64
+import os
 import re
-from flask import Flask, Response, redirect, request
+from urllib.parse import urlparse
+import requests
+from flask import Flask, Response, abort, request, redirect
 
 app = Flask(__name__)
 
-# URL de tu GitHub de junio en Base64
-URL_CIFRADA = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FwcHNzdHVkaW9zLW9maWNpYWwvbGlzdGFzMjAyNi9tYWluL2p1bmlvMjAyNi5tM3U="
+# Enlace RAW de tu nueva lista en el nuevo repositorio
+URL_LISTA_GITHUB = "https://raw.githubusercontent.com/appsstudios-oficial/2026listas/refs/heads/main/full.m3u"
 
-# Diccionario temporal en memoria para guardar los enlaces reales ocultos
-MEMORIA_CANALES = {}
-
-def procesar_y_ocultar_lista():
-    """Descarga la lista original y enmascara los links reales"""
+def ip_a_decimal(ip):
+    """Transforma una IP como 181.224.255.210 en un número entero gigante"""
     try:
-        url_real = base64.b64decode(URL_CIFRADA.encode('utf-8')).decode('utf-8')
-        response = requests.get(url_real, headers={'User-Agent': 'Mozilla/5.0'})
-        lineas = response.text.splitlines()
+        octetos = list(map(int, ip.split('.')))
+        return (octetos[0] << 24) + (octetos[1] << 16) + (octetos[2] << 8) + octetos[3]
+    except:
+        return None
+
+def ofuscar_url(url):
+    """Busca si el enlace usa IP y la transforma para ofuscarla"""
+    try:
+        parsed = urlparse(url)
+        host = parsed.hostname
         
-        nueva_lista = []
-        contador = 1
-        
-        for linea in lineas:
-            # Si la línea es un enlace (http...), lo guardamos en memoria y ponemos nuestro link falso
-            if linea.strip().startswith("http"):
-                enlace_real = linea.strip()
-                MEMORIA_CANALES[str(contador)] = enlace_real
-                
-                # Construimos el enlace enmascarado apuntando a tu Render
-                host = request.host_url.rstrip('/')
-                nueva_lista.append(f"{host}/reproducir?id={contador}")
-                contador += 1
-            else:
-                # Si es texto normal (#EXTINF...), lo dejamos igual
-                nueva_lista.append(linea)
-                
-        return "\n".join(nueva_lista)
-    except Exception as e:
-        return f"Error al procesar: {e}"
+        if host and re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$", host):
+            ip_decimal = ip_a_decimal(host)
+            if ip_decimal:
+                nuevo_netloc = f"{ip_decimal}"
+                if parsed.port:
+                    nuevo_netloc += f":{parsed.port}"
+                nuevo_url = parsed._replace(netloc=nuevo_netloc).geturl()
+                return nuevo_url
+        return url
+    except:
+        return url
 
 @app.route('/lista.m3u')
-def obtener_lista():
-    # Entrega la lista con los enlaces ya ocultos (Cualquiera puede entrar y no verá los links originales)
-    contenido_oculto = procesar_y_ocultar_lista()
-    return Response(contenido_oculto, mimetype='text/plain')
-
-@app.route('/reproducir')
-def reproducir_canal():
-    # Cuando la tele le da play al link falso, Render busca el verdadero en secreto y redirige el video
-    id_canal = request.args.get('id')
-    enlace_real = MEMORIA_CANALES.get(id_canal)
+def obtener_lista_ofuscada():
+    # Conseguimos el "User-Agent" de quien está intentando entrar
+    user_agent = request.headers.get('User-Agent', '').lower()
     
-    if enlace_real:
-        return redirect(enlace_real, code=302)
-    return "Canal no encontrado", 404
+    # Lista de palabras clave que usan los navegadores comunes
+    navegadores = ['mozilla', 'chrome', 'safari', 'firefox', 'edge', 'opera', 'android', 'iphone']
+    
+    # Si detectamos que es un navegador web humano, lo bloqueamos o redirigimos
+    if any(nav in user_agent for nav in navegadores):
+        # Opción A: Redirigirlo a tu Landing Page con contador (Cambiá esto por tu web real si querés)
+        return redirect("https://appsstudios-oficial.github.io/tu-pagina-contador", code=302)
+        
+        # Opción B: Si preferís que tire un error de "Acceso Prohibido", borrá la línea de arriba y usá esta:
+        # abort(403)
 
-if __name__ == "__main__":
-    app.run()
+    try:
+        # Si no es un navegador (es decir, es VLC o una app de IPTV), procesamos la lista normalmente
+        respuesta = requests.get(URL_LISTA_GITHUB, timeout=10)
+        if respuesta.status_code != 200:
+            return "Error", 500
+        
+        lineas = respuesta.text.splitlines()
+        lista_final = []
+        
+        for linea in lineas:
+            linea_limpia = linea.strip()
+            if linea_limpia.startswith("http://") or linea_limpia.startswith("https://"):
+                linea_ofuscada = ofuscar_url(linea_limpia)
+                lista_final.append(linea_ofuscada)
+            else:
+                lista_final.append(linea)
+                
+        contenido_m3u = "\n".join(lista_final)
+        return Response(contenido_m3u, mimetype='application/x-mpegurl')
+        
+    except Exception as e:
+        return "Error interno", 500
+
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
