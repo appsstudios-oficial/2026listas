@@ -2,11 +2,11 @@ import os
 import re
 from urllib.parse import urlparse
 import requests
-from flask import Flask, Response, abort, request, redirect
+from flask import Flask, Response, request, redirect
 
 app = Flask(__name__)
 
-# Enlace RAW de tu nueva lista en el nuevo repositorio
+# Enlace RAW de tu lista en el nuevo repositorio
 URL_LISTA_GITHUB = "https://raw.githubusercontent.com/appsstudios-oficial/2026listas/refs/heads/main/full.m3u"
 
 def ip_a_decimal(ip):
@@ -37,22 +37,17 @@ def ofuscar_url(url):
 
 @app.route('/lista.m3u')
 def obtener_lista_ofuscada():
-    # Conseguimos el "User-Agent" de quien está intentando entrar
     user_agent = request.headers.get('User-Agent', '').lower()
     
-    # Lista de palabras clave que usan los navegadores comunes
-    navegadores = ['mozilla', 'chrome', 'safari', 'firefox', 'edge', 'opera', 'android', 'iphone']
+    # BLOQUEO ESTRICTO: Solo los navegadores solicitados
+    navegadores_web = ['chrome', 'firefox', 'safari', 'brave', 'opera']
     
-    # Si detectamos que es un navegador web humano, lo bloqueamos o redirigimos
-    if any(nav in user_agent for nav in navegadores):
-        # Opción A: Redirigirlo a tu Landing Page con contador (Cambiá esto por tu web real si querés)
+    # Si el User-Agent contiene alguna de estas palabras, se lo redirige
+    if any(nav in user_agent for nav in navegadores_web):
         return redirect("https://appsstudios-oficial.github.io/tu-pagina-contador", code=302)
-        
-        # Opción B: Si preferís que tire un error de "Acceso Prohibido", borrá la línea de arriba y usá esta:
-        # abort(403)
 
     try:
-        # Si no es un navegador (es decir, es VLC o una app de IPTV), procesamos la lista normalmente
+        # Para cualquier otra aplicación (apps de IPTV, VLC, etc.), la lista pasa limpio
         respuesta = requests.get(URL_LISTA_GITHUB, timeout=10)
         if respuesta.status_code != 200:
             return "Error", 500
