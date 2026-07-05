@@ -5,6 +5,8 @@ https://g4.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=ec764f544ab1e8791748d49de9fb4082
+#EXTINF:-1 group-title="Variedades",TN
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Cronica Tv
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783241986/ei/oshJaoCdIP6k-LAP-JLSEA/ip/2802:8012:c012:5701:c479:337c:3169:74b0/id/JC7f3EUDaqw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uxax4vopj55gb-jgqe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEW-75nlkkDYNNrMmBGpzCW_jiwm-CXhUXtu5WApkQ6s2nqS2_uRiQcYkRwQjYCMgZ2kK9sxgD3u/spc/SQ-umrR2mPO3pGlJzoOsgrP0iiLK9SEoiV1RaNxTs-cYLieiEA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2237500/met/1783220386,/mh/Qh/mm/44/mn/sn-uxax4vopj55gb-jgqe/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783219937/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgBgy4evPXx3YwFbg6qNDDdW0CqdJKZU8NtjplayPghV8CIFn1v2xlgrOH-MylbXZ8Z8pcYODKmd06XdLrWRgrzw3K/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgJPd4fBI11BFQaPw7f__oq082VEUTnjgzXkQgzlBdrhUCIQCWawYHKYc3QI9fXZeEddHCgL2t6AUZqNLLbxITN5XBWQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - LN
@@ -16,9 +18,7 @@ http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina
-https://mdstrm.com/live-stream-playlist/69e0fb650d9e3eb5340cdd5c.m3u8?uid=F2GzAjxdOmlhu7cF1SsTHg3Y2bVTo1bw&sid=aAgSjiPN7yTCId06j4aJ3vOqmHmNqcEq&pid=CVtHSz8aaQ8PdFvyzbCn1pGJunSP4tVH&pid_dvr=2h6EcEc3hWQCKtZqNaEY7dy9yVr84vg2&an=Mediastream_Player&at=web-app&av=v7.0.71&ref=https%3A%2F%2Fwww.mitelefe.com%2F&res=410x230&without_cookies=false&listenerid=&dnt=true&access_token=zjl6SsIBB2CzSUYAlEMSsZu1s9KtDv8E5ytKzc5pmarJdprNirtN0UFxthMJwGrvIrRYq3dlZ0O
-#EXTINF:-1 group-title="Variedades",TN
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/62b27e17-d253-4de6-9110-c0b145759af4:ATL/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8?aid=69dfb44d09ecc98dc876969f&uid=fjvijXiqKXQ7UBIZjvfjMgIIzDDSvXN6&sid=kVclzTiOGb4YeDiUKqYK0XUPqQWBIltV&pid=6fYuVyl8FmFukhSyHqvojLBYZwnKqi4p&pid_dvr=3NcMngeWXn33xdCNTXztNu64oUumw0S6&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=fZwksaTW0MzyEKWfDothC5FS9ecoNfh7msxXPdDz2Jpz2w5ufOAeLgzLx0SomKEyjb5Sbe85PPw&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D72100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%226fYuVyl8FmFukhSyHqvojLBYZwnKqi4p%22&adInsertionGoogleStreamId=62b27e17-d253-4de6-9110-c0b145759af4%3AATL&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1783307051649&ot=uw4A6GWEXlElcpoonrrI2A&proto=https&pz=us
 #EXTINF:-1 group-title="Variedades",Net Tv
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Variedades",Canal 34
