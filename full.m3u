@@ -15,6 +15,8 @@ https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
 #EXTINF:-1 group-title="Television en Vivo",Metro tv
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8#ffdff264784d29a3af10c807144391368e6f7c70386344c1686b5a518a51d2ba
+#EXTINF:-1 group-title="Television en Vivo",Cosmos tv
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Television en Vivo",RetroPlus
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Television en Vivo",Tv Retro
@@ -439,5 +441,86 @@ https://data-limit-c.solo-latino.com/50ef5a298c9071f0800636a5e8aa0102/303b35ffc0
 https://data-limit-c.solo-latino.com/20026e298c9071f099515014c1ca0102/907bb2f6920c2ccdb7e21892df83e822-sd.m3u8?hdnts=exp=1784249601_acl=/20026e298c9071f099515014c1ca0102/*_hmac=365ef755f8450546bd3ca62f803fdfae3c4f58238f4adc21a14d813e8c1e7a47
 #EXTINF:-1 group-title="SERIES | The Boys",The Boys 8
 https://data-limit-c.solo-latino.com/d09174298c9071f0999187c7371d0102/ac7cce271e32ed45a326e8abcad499b2-sd.m3u8?hdnts=exp=1784241468_acl=/d09174298c9071f0999187c7371d0102/*_hmac=ec6edb859307ca3f7f10399ea642546fc1d438b06adcceaf17dad67e35bd8b6e
+
+# [SERIE] The Boys Temporada 2
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 1
+https://data-limit-c.solo-latino.com/1050ccd08c9271f080074177d1c00102/8171f8333d682573971c7f0c577c1a3d-sd.m3u8?hdnts=exp=1784515490_acl=/1050ccd08c9271f080074177d1c00102/*_hmac=0592aedbec369ca3e637746e4101c8a8719914ae08040b69656523faa49d7e08
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 2
+https://data-limit-c.solo-latino.com/80efb6ce8c9071f0800997c6360c0102/c12fd0f526a392c057bd4c849005baff-sd.m3u8?hdnts=exp=1784515542_acl=/80efb6ce8c9071f0800997c6360c0102/*_hmac=c1174d4865d80217ad8b2c775229a3350461a7b003bb48423e3cc8ca6dcf6e28
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 3
+https://data-limit-c.solo-latino.com/b0edb0ae8c9271f0999187c7371d0102/f177c2644b2ddea08bd6756bd7e87877-sd.m3u8?hdnts=exp=1784515575_acl=/b0edb0ae8c9271f0999187c7371d0102/*_hmac=0d7c7a58e9f96249e7be3f2fbf6d77a299629bc00e79937a7fae96f41a074868
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 4
+https://data-limit-c.solo-latino.com/d0059d9e8c9271f099515014c1ca0102/b19280cfa3f6ecd78389b1fedad3496b-sd.m3u8?hdnts=exp=1784515595_acl=/d0059d9e8c9271f099515014c1ca0102/*_hmac=52235e3aa716450366a38d8254a220e5df3eaef3efb9865d00295889e62101ab
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 5
+https://data-limit-c.solo-latino.com/509c31f98c9171f0bfe65114c0db0102/04caffd0080d43f1b993c475b29b3f45-sd.m3u8?hdnts=exp=1784515643_acl=/509c31f98c9171f0bfe65114c0db0102/*_hmac=3e1005c2bbbabb58bcc18abec56fdee85b883fa2db2b53b15220260dd466d957
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 6
+https://data-limit-c.solo-latino.com/e001d9f28c9171f0800287c6371c0102/db906d8e11a9c29b8ba662f724af62ca-sd.m3u8?hdnts=exp=1784515707_acl=/e001d9f28c9171f0800287c6371c0102/*_hmac=5196386b2eaad5a6c6d45d6452aed7d25b20ce546bc13a2a5dce49ba02fc7d71
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 7
+https://data-limit-c.solo-latino.com/70350bf38c9171f08f9b5114c1ca0102/13f8d71eb228990ab05a0b056ed898ab-sd.m3u8?hdnts=exp=1784515732_acl=/70350bf38c9171f08f9b5114c1ca0102/*_hmac=95798e885e28dad043e746a35b90f5114a1ceebb6b35d4e339259df096399264
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 8
+https://data-limit-c.solo-latino.com/f0381eee8c9171f080074177d1c00102/700e087f2c840f58f7c22d8c04c9f78d-sd.m3u8?hdnts=exp=1784515758_acl=/f0381eee8c9171f080074177d1c00102/*_hmac=6c19caca6c5ca5e73e3c82eae3c26e27cb8a2e5d81968c164563e6d192cd92e8
+
+# [SERIE] The Boys Temporada 3
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 1
+https://data-limit-c.solo-latino.com/10f4ebef8c9171f0800997c6360c0102/49e04efe1d2cf8e645306ae10ef5c9a1-sd.m3u8?hdnts=exp=1784515840_acl=/10f4ebef8c9171f0800997c6360c0102/*_hmac=fcdc5f584c2c0054bad39f91e1b83d5f46f58841a8bd7bca7e100e3ad519140e
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 2
+https://data-limit-c.solo-latino.com/703330df8c9171f0800997c6360c0102/0b04b3c354b20e145782e5dcb8907bd5-sd.m3u8?hdnts=exp=1784515879_acl=/703330df8c9171f0800997c6360c0102/*_hmac=93175211a405d2426dc71599a16067fc731807c224547da91a7725324f815e09
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 3
+https://data-limit-c.solo-latino.com/206f5f1f8c9171f0bfb95014c1da0102/46e906fbf5ad4f803a9d0151816c3cd5-sd.m3u8?hdnts=exp=1784515908_acl=/206f5f1f8c9171f0bfb95014c1da0102/*_hmac=cc439d736d251defbd62a6ac7be2c677e29a55eb5c0bfb90b64112ffd10181c8
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 4
+https://data-limit-c.solo-latino.com/b099541f8c9171f0800636a5e8aa0102/551ddd9be6f449ec3ac3ed52e08420b4-sd.m3u8?hdnts=exp=1784515935_acl=/b099541f8c9171f0800636a5e8aa0102/*_hmac=748b4011b9373e0d11c03d7ec81b095f3c90c4ba0d3ee7125ae1ec06f631aa51
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 5
+https://data-limit-c.solo-latino.com/80ef471f8c9171f08f9b5114c1ca0102/c66400f123a1646e4fad18165491655d-sd.m3u8?hdnts=exp=1784515954_acl=/80ef471f8c9171f08f9b5114c1ca0102/*_hmac=3c409665e84acd3f9b70ff5d6c67f77ebfb2f9e9cc532c55760770f29b0be4fd
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 6
+https://data-limit-c.solo-latino.com/50307d1f8c9171f0999187c7371d0102/3e4b28c3dd781dce7868178a40b3a066-sd.m3u8?hdnts=exp=1784502859_acl=/50307d1f8c9171f0999187c7371d0102/*_hmac=82f6649afdb0a6a5f4af394d14408184279abdb794415f3aaf20ce30fe2a38ee
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 7
+https://data-limit-c.solo-latino.com/80ef471f8c9171f099515014c1ca0102/24597267ae9631dfef0ef5e489dfe2a8-sd.m3u8?hdnts=exp=1784500482_acl=/80ef471f8c9171f099515014c1ca0102/*_hmac=9e206e940eb504b8907ffc60006fdcc81c9aadcf8cf70c2257094cc517b3152f
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 8
+https://data-limit-c.solo-latino.com/30888b1f8c9171f0bb9b86c6360c0102/934a2998bc1885e2eb8a08f020b2b737-sd.m3u8?hdnts=exp=1784516023_acl=/30888b1f8c9171f0bb9b86c6360c0102/*_hmac=e162d816a75deb2f652531bd547e829109e0d614a5a0deb5e15957119eeff910
+
+# [SERIE] The Boys Temporada 4
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 1
+https://data-limit-c.solo-latino.com/e079a8598c9371f0bfe65114c0db0102/2ac5efc0fe2a2a7c9b97bbfd2becdc48-sd.m3u8?hdnts=exp=1784516108_acl=/e079a8598c9371f0bfe65114c0db0102/*_hmac=ac232d353e85adb5fd884f324d066cb031db4c231e9cf0ee41827e80b992a650
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 2
+https://data-limit-c.solo-latino.com/90c082518c9371f0bfba5014c1da0102/7b1c2f95482444d817aa5c8fd097fa48-sd.m3u8?hdnts=exp=1784516124_acl=/90c082518c9371f0bfba5014c1da0102/*_hmac=e5a7880ecfb2f3d1c7a9a96f29a426aea4913b6483aae30c9046143689e2230b
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 3
+https://data-limit-c.solo-latino.com/603714d98c9271f0bb4387c7361c0102/d6cef3d6312bf9234d478fe8761d69c2-sd.m3u8?hdnts=exp=1784516139_acl=/603714d98c9271f0bb4387c7361c0102/*_hmac=13644cda2fb3ab0fa955c328f352087d00ee74a14cd28b21fa0cbfbb1d02f817
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 4
+https://data-limit-c.solo-latino.com/b0e230d58c9271f08f9b5114c1ca0102/e47164ede0712962467200d19ea1ef27-sd.m3u8?hdnts=exp=1784516163_acl=/b0e230d58c9271f08f9b5114c1ca0102/*_hmac=9770abf36077b118b89d5cea4b710db680c4f743180ebe6d3d40bf9246c49fd4
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 5
+https://data-limit-c.solo-latino.com/707e43ed8c9371f0800a4177d0d10102/e2dd955395e3c2dcee557bab17f178c9-sd.m3u8?hdnts=exp=1784495521_acl=/707e43ed8c9371f0800a4177d0d10102/*_hmac=0c27a644a2868833dfb7648b712026c50b0fec54e91bf3d320ee92e8b274de5f
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 6
+https://data-limit-c.solo-latino.com/800f5ced8c9371f0800636a5e8aa0102/f99772fca6cb1c122cd51481c3973a40-sd.m3u8?hdnts=exp=1784516198_acl=/800f5ced8c9371f0800636a5e8aa0102/*_hmac=f9f702fcf86e3e71246dc95b142a474ccf8db83ff16a3886058795a3eb704b54
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 7
+https://data-limit-c.solo-latino.com/f0af5aed8c9371f0800997c6360c0102/4b6ce91093e79d9ef4a18bbdd116297e-sd.m3u8?hdnts=exp=1784516216_acl=/f0af5aed8c9371f0800997c6360c0102/*_hmac=4276d61469c834e1c072ea02cd95fef1f55d5c8dbd9f35258fb5490839acf490
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 8
+https://data-limit-c.solo-latino.com/f02747ed8c9371f0800a4177d0d10102/e33a188882f59da10bb9d8798d55d62a-sd.m3u8?hdnts=exp=1784471403_acl=/f02747ed8c9371f0800a4177d0d10102/*_hmac=a6d00b86b83716ec9daeb1e2a0ebad02c5d9db1ccda37e216ea78557295b21c0
+
+# [SERIE] The Boys Temporada 5
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 1
+https://data-limit-c.solo-latino.com/e09a6aab331b71f1bfe436a5e8aa0102/a230789c70ac4de7875f71a515163429-microframe-sd.m3u8?hdnts=exp=1784516326_acl=/e09a6aab331b71f1bfe436a5e8aa0102/*_hmac=7fbbd92eecbdf0f0875d11d80e2dde9a454eeb0919ffa3962f4e08e0c75ec6be
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 2
+https://data-limit-c.solo-latino.com/e034238a331c71f190585014c1da0102/15b0299c8d7f4d33a077859f0ac04158-microframe-sd.m3u8?hdnts=exp=1784491356_acl=/e034238a331c71f190585014c1da0102/*_hmac=a60a4eb13aa6d1a441040d8a9abf86a7bdaadd32e0d3c1590d46ac3c5ba08561
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 3
+https://data-limit-c.solo-latino.com/704cc4fd393b71f1bfb887c6371c0102/87c116f173c545c8926d153ba75bb529-microframe-sd.m3u8?hdnts=exp=1784515924_acl=/704cc4fd393b71f1bfb887c6371c0102/*_hmac=920f821607d4339318399465da6871613599f8e7356033a6f38d8d107fad493d
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 4
+https://data-limit-c.solo-latino.com/c0981dbd3ecc71f18901f6f6c54b0102/037c9ac1e17945128eb4df71a51988a2-microframe-sd.m3u8?hdnts=exp=1784516384_acl=/c0981dbd3ecc71f18901f6f6c54b0102/*_hmac=7b13a43b294ca6103caf16702a0942ba479e7690bee967caa8acd69b3632397d
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 5
+https://data-limit-c.solo-latino.com/306db4d043ab71f1bfe1e6e6c4580102/19be1361d7164fb2971dd1b4995be860-microframe-sd.m3u8?hdnts=exp=1784516405_acl=/306db4d043ab71f1bfe1e6e6c4580102/*_hmac=58808a4c9e91dcf9adefe7ebf88226ce4f3cd32967323e588908ec1cd3fcd0fb
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 6
+https://data-limit-c.solo-latino.com/804d10ac49d471f1bfe2e6e6c4580102/16252e764ae94134a280fa8096037d35-microframe-sd.m3u8?hdnts=exp=1784516424_acl=/804d10ac49d471f1bfe2e6e6c4580102/*_hmac=63b97ea662a1cd2ae0b8f026a80c4b6f23822177b66646ef9f10dc3a0b94c1c0
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 7
+https://data-limit-c.solo-latino.com/1095994f4ead71f1bfae3108f4940102/851224cedbe442019a1467bdf2acb676-microframe-sd.m3u8?hdnts=exp=1784516450_acl=/1095994f4ead71f1bfae3108f4940102/*_hmac=e50d0ede8643085402a59b6e0a2931eb4fc36f5987f55feeef2f43ecf281ae9f
+#EXTINF:-1 group-title="SERIES | The Boys",The Boys 8
+https://data-limit-c.solo-latino.com/70a2620854bd71f19346e7f6d44b0102/b0d637c52da843d3b9475f6219ac4980-microframe-sd.m3u8?hdnts=exp=1784516471_acl=/70a2620854bd71f19346e7f6d44b0102/*_hmac=4f2c6513d408e99fe093a7dc8e18c0b10221d3985b53e6bc32d453b08b68d51c
+
+
+
+
+
+
+
+
+
 
 
