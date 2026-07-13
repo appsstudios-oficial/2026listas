@@ -276,9 +276,8 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://181.78.0.107:8006/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS HD
 http://38.199.4.105:9999/play/1119/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS HD
-http://38.199.4.105:9999/play/1119/index.m3u8
-http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSPORTS 2
+https://vinix.inproviszon.st/main/secure/765fde878c57e7a664869b47725d85ce9c225b55e21cc481d29a28fbabd27fc7/1783919871/dsports-ar.m3u8
 #EXTINF:-1 group-title="Deportes",TNT Sports Premiun HD
 http://38.199.4.105:9999/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN HD
@@ -535,7 +534,7 @@ https://vod-limit-02.playspelis.com/507b53554ea971f1bffbe6f6e7780102/e73991471c1
 #EXTINF:-1 group-title="SERIES | Off Campus",Cambio de Linea 8
 https://vod-limit-02.playspelis.com/f0d2722d4eab71f1bf954177d1c10102/d0e7e454102b4c209f476b9ad655d422-microframe-sd.m3u8?hdnts=exp=1784517038_acl=/f0d2722d4eab71f1bf954177d1c10102/*_hmac=f5cf10ee4717386803acd263d630049cfafcef26b022c2e4e0af345a5694d8a5
 
-# [SERIE] 11.22.63
+# [SERIE] Spider-Noir 2026
 #EXTINF:-1 group-title="SERIES | Spider-Noir 1
 https://vod-limit-res.cuevana.life/807207225f2871f1bfb4e6f6c55a0102/869b781513a64e64bf39bd90ada59b13-microframe-sd.m3u8?hdnts=exp=1784519354_acl=/807207225f2871f1bfb4e6f6c55a0102/*_hmac=0b76f89481ec80928b52670a237a596fcd10e2e2f42e0e888865402a82c90190
 #EXTINF:-1 group-title="SERIES | Spider-Noir 2
@@ -552,6 +551,62 @@ https://vod-limit-res.cuevana.life/b0d456ab5f2171f18f69e6f7d4580102/97985e352661
 https://vod-limit-res.cuevana.life/104bb5675f2171f1bc8ae7e6d57b0102/868a7a7ce82e40ad8f272ed9d0685d88-microframe-sd.m3u8?hdnts=exp=1784519595_acl=/104bb5675f2171f1bc8ae7e6d57b0102/*_hmac=75ecb2020cf06f90d09fdd1a25e8f8309ebd55ad6a510ece8cbe742492f246c5
 #EXTINF:-1 group-title="SERIES | Spider-Noir 8
 https://vod-limit-res.cuevana.life/2054ba675f2171f1b59fe7f7d7480102/6739edd59c274b4fa478f2514dde2e9f-microframe-sd.m3u8?hdnts=exp=1784519613_acl=/2054ba675f2171f1b59fe7f7d7480102/*_hmac=c74b374e1644a1c7338ecf713b794234c95ceed5d1496aa37d77bdd802d6d91c
+
+# [SERIE] La casa de los espíritus
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 1
+https://r-limit.flixlat.com/10cd78d3439a71f19a50e6e6d4480102/c9a2db01c1f34d5e86d5025f4fa90775-microframe-sd.m3u8?hdnts=exp=1784520206_acl=/10cd78d3439a71f19a50e6e6d4480102/*_hmac=33df93c45d75f1d4257c1393189f2ed780eb190a34b0b5352b8819baca2bc875
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 2
+https://r-limit.flixlat.com/d0a57b27439c71f1801ce6e6c5490102/f34b68df5ff545abac5c0ad7f271bf28-microframe-sd.m3u8?hdnts=exp=1784520230_acl=/d0a57b27439c71f1801ce6e6c5490102/*_hmac=6dc74c5918aedf962ac390984bc329aee80bedc3022233b824103b07fa628328
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 3
+https://r-limit.flixlat.com/e0c6af57439d71f18939f6f6c54b0102/5e39433b0fed44fdb79ff09cbc48440d-microframe-sd.m3u8?hdnts=exp=1784520248_acl=/e0c6af57439d71f18939f6f6c54b0102/*_hmac=b96a377cc6a2902440c7955997b09bb6793a6f73eee17967d1e61c172ba29ba1
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 4
+https://r-limit.flixlat.com/90327f2b49c471f1bfeee6e6c4580102/e56f701dd745479a995afa247e3edcdc-microframe-sd.m3u8?hdnts=exp=1784520266_acl=/90327f2b49c471f1bfeee6e6c4580102/*_hmac=22331da1f49cd1dc4000073f04ed063b0cb090826e89761680f9a2ffd9ba3f6d
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 5
+https://r-limit.flixlat.com/807c812b49c471f1bfe1e6e7d4480102/6ea28ffe68f2412a92e4aa67b1830e58-microframe-sd.m3u8?hdnts=exp=1784520284_acl=/807c812b49c471f1bfe1e6e7d4480102/*_hmac=5a82267910b211dec92f542fa81c63550deda65ea245eeb2db43a976b0bb61ce
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 6
+https://r-limit.flixlat.com/a0d4b0ea4f3e71f1bf99e7e7d5480102/3b625f1b4709445597e6a56c7b1dfaca-microframe-sd.m3u8?hdnts=exp=1784520300_acl=/a0d4b0ea4f3e71f1bf99e7e7d5480102/*_hmac=67cd5fe5abfd49b4300f91e2184fedaf13f6f290f5b66caa8353a2c9d66d5933
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 7
+https://r-limit.flixlat.com/30bcc5ea4f3e71f1bf99e7e7d5480102/8b2055d790dc467fa37f373e71678ff5-microframe-sd.m3u8?hdnts=exp=1784520315_acl=/30bcc5ea4f3e71f1bf99e7e7d5480102/*_hmac=415941147da5c3903c6fc21a4b498e40c81490b72b15bdcc508e190cdc4d4658
+#EXTINF:-1 group-title="SERIES | La casa de los espíritus 8
+https://r-limit.flixlat.com/40c5caea4f3e71f1bfdd36a5e8aa0102/b84de1b5ca5e4bfd8d4d27d850633de7-microframe-sd.m3u8?hdnts=exp=1784520334_acl=/40c5caea4f3e71f1bfdd36a5e8aa0102/*_hmac=288c23f0162947211978d5f40d7264d605b6d600ea04b082b0733409f0c3806b
+
+
+# [SERIE] La Grande
+#EXTINF:-1 group-title="SERIES | La Grande 1
+https://minochinos.com/stream/CikyD_ubHc7HMVfki6Lq-Q/hjkrhuihghfvu/1783960037/19050139/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 2
+https://minochinos.com/stream/bTFu8jzXJKJQmXKTvU6BMA/hjkrhuihghfvu/1783960089/19050804/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 3
+https://minochinos.com/stream/wIeVYTGSN1nYaVMaX7GU1Q/hjkrhuihghfvu/1783960124/19050469/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 4
+https://minochinos.com/stream/arAGvyy7hM3TBJYtMLTrZA/hjkrhuihghfvu/1783960250/19050575/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 5
+https://vibuxer.com/stream/-BmKeCD8XLlaX9_ym8MQHg/kjhhiuahiuhgihdf/1783960298/42218394/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 6
+https://minochinos.com/stream/PTg_Uvl3Zuf6NUNoywvDeA/hjkrhuihghfvu/1783960342/19050830/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 7
+https://minochinos.com/stream/JvNQ1Lz2w-d77fkbHcXxdA/hjkrhuihghfvu/1783960375/19050666/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 8
+https://minochinos.com/stream/tZV_DBsFny5Hx_E08lKsjw/hjkrhuihghfvu/1783960420/19051170/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 9
+https://minochinos.com/stream/mGn-okROb_DfAZJm-ut-VQ/hjkrhuihghfvu/1783960457/19051192/master.m3u8
+#EXTINF:-1 group-title="SERIES | La Grande 10
+https://minochinos.com/stream/s8eU4Qizsum6Lfb84Q-ElQ/hjkrhuihghfvu/1783960517/19050581/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
