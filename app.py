@@ -9,27 +9,28 @@ URL_LISTA_GITHUB = "https://raw.githubusercontent.com/appsstudios-oficial/2026li
 
 @app.route('/lista.m3u')
 def proteger_lista():
-    # Obtenemos la identificación de quién está pidiendo la lista
     user_agent = request.headers.get('User-Agent', '').lower()
     
-    # Lista de palabras clave que envían TODOS los navegadores web del mundo
-    palabras_navegadores = [
-        'mozilla', 'chrome', 'safari', 'applewebkit', 
-        'opera', 'edge', 'windows', 'android', 'iphone'
-    ]
-    
-    # Si la petición viene sin identificación, o contiene alguna palabra de navegador: BLOQUEO
-    if not user_agent or any(nav in user_agent for nav in palabras_navegadores):
-        # Los mandamos a tu página web contador
+    # Si viene completamente vacío, lo bloqueamos
+    if not user_agent:
         return redirect("https://appsstudios-oficial.github.io/tu-pagina-contador", code=302)
 
-    # Si NO es un navegador (es decir, es SSIPTV, VLC, IPTV Smarters, etc.), le entregamos la lista original
+    # Filtro inteligente: Bloqueamos solo navegadores reales de escritorio y móviles
+    bloqueo_navegadores = [
+        'chrome/', 'firefox/', 'edge/', 'opera/', 'edg/',
+        'window snt', 'macintosh', 'linux x86_64'
+    ]
+    
+    # Si detectamos un navegador real de PC/Móvil, lo mandamos al contador
+    if any(nav in user_agent for nav in bloqueo_navegadores):
+        return redirect("https://appsstudios-oficial.github.io/tu-pagina-contador", code=302)
+
+    # Si pasa el filtro (servidores de SSIPTV, VLC, etc.), entregamos la lista
     try:
         respuesta = requests.get(URL_LISTA_GITHUB, timeout=10)
         if respuesta.status_code != 200:
             return "Error al obtener la lista de origen", 500
             
-        # Entregamos el archivo original exactamente como está en GitHub
         return Response(respuesta.text, mimetype='application/x-mpegurl')
         
     except Exception as e:
