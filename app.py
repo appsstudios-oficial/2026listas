@@ -9,6 +9,24 @@ URL_LISTA_GITHUB = "https://raw.githubusercontent.com/appsstudios-oficial/2026li
 
 @app.route('/lista.m3u')
 def proteger_lista():
+    user_agent = request.headers.get('User-Agent', '').lower()
+    
+    # Si la petición no tiene identificación, la bloqueamos por seguridad
+    if not user_agent:
+        return redirect("https://appsstudios-oficial.github.io/tu-pagina-contador", code=302)
+
+    # Bloqueamos estrictamente las firmas que usan los navegadores de PC y Celulares
+    # Esto no afecta a los servidores de SSIPTV ni a reproductores puros
+    bloqueo_navegadores = [
+        'chrome/', 'firefox/', 'safari/', 'edge/', 'opera/', 'edg/',
+        'window snt', 'macintosh', 'linux x86_64'
+    ]
+    
+    # Si detectamos que es un usuario en un navegador web, lo mandamos al contador
+    if any(nav in user_agent for nav in bloqueo_navegadores):
+        return redirect("https://appsstudios-oficial.github.io/tu-pagina-contador", code=302)
+
+    # Si pasa el filtro (SSIPTV, VLC, etc.), le entregamos la lista limpia
     try:
         respuesta = requests.get(URL_LISTA_GITHUB, timeout=10)
         if respuesta.status_code != 200:
