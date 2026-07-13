@@ -1,265 +1,267 @@
 #EXTM3U
 
-# ==================== SECCIÓN: CANALES EN VIVO ====================
-#EXTINF:-1 group-title="Variedades",00 - 24/7
+# ==================== CARPETA: TELEVISION EN VIVO ====================
+#EXTINF:-1 group-title="Television en Vivo",00 - 24/7
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8#1269b3957dab9a86f72ec36c4d6c4f382e9021369de3a5c7a2c4cec35d74e395
-#EXTINF:-1 group-title="Variedades",00 - Canal 26
+#EXTINF:-1 group-title="Television en Vivo",00 - Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=ec764f544ab1e8791748d49de9fb4082
-#EXTINF:-1 group-title="Variedades",00 - El Trece
+#EXTINF:-1 group-title="Television en Vivo",00 - El Trece
 http://38.199.4.105:9999/play/a0xo/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
+#EXTINF:-1 group-title="Television en Vivo",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
-#EXTINF:-1 group-title="Variedades",Net Tv
+#EXTINF:-1 group-title="Television en Vivo",Net Tv
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Variedades",Canal 34
+#EXTINF:-1 group-title="Television en Vivo",Canal 34
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
-#EXTINF:-1 group-title="Variedades",Metro tv
+#EXTINF:-1 group-title="Television en Vivo",Metro tv
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8#ffdff264784d29a3af10c807144391368e6f7c70386344c1686b5a518a51d2ba
-#EXTINF:-1 group-title="Variedades",RetroPlus
+#EXTINF:-1 group-title="Television en Vivo",RetroPlus
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Variedades",Tv Retro
+#EXTINF:-1 group-title="Television en Vivo",Tv Retro
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
-#EXTINF:-1 group-title="Variedades",Retrox
+#EXTINF:-1 group-title="Television en Vivo",Retrox
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
-#EXTINF:-1 group-title="Variedades",TVS Retro
+#EXTINF:-1 group-title="Television en Vivo",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8#d6b511091273f78866fb16670139ee12fff2d3c10563c223b9478aa253ab2560
-#EXTINF:-1 group-title="Variedades",TIV
+#EXTINF:-1 group-title="Television en Vivo",TIV
 https://videohd.live:19360/8008/8008.m3u8#2c9e1cd5abe8963ba1970c540ee7be381fcc4e46011b75ed142496dcf4056ea1
-#EXTINF:-1 group-title="Variedades",Canal Pulpo TV
+#EXTINF:-1 group-title="Television en Vivo",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
-#EXTINF:-1 group-title="Variedades",Canal Next
+#EXTINF:-1 group-title="Television en Vivo",Canal Next
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 group-title="Variedades",Cine Sony
+#EXTINF:-1 group-title="Television en Vivo",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8#fa0a84e600c094ecb045ef7c548907b2ec319905cbb7b29d7a0fedd4492da318
-#EXTINF:-1 group-title="Variedades",Mega Cine Tv
+#EXTINF:-1 group-title="Television en Vivo",Mega Cine Tv
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8#8caf8885be83cbf7ff9a2077d0a8fdbcf4408f3956b72f498a18dd4afda36286
-#EXTINF:-1 group-title="Variedades",Canal 21
+#EXTINF:-1 group-title="Television en Vivo",Canal 21
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8#9bea7125238ec92eb087262a8e1e442c1157c3e4e6fcf00907dd535052ebfbb0
-#EXTINF:-1 group-title="Variedades",CNN Español
+#EXTINF:-1 group-title="Television en Vivo",CNN Español
 http://181.224.255.210:8001/play/a0q1/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 - Adult Swim
+#EXTINF:-1 group-title="Television en Vivo",00 - Adult Swim
 http://181.224.255.210:8001/play/a0q8/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 - E! Entertainment TV
+#EXTINF:-1 group-title="Television en Vivo",00 - E! Entertainment TV
 http://181.224.255.210:8001/play/a0q3/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 - Lifetime
+#EXTINF:-1 group-title="Television en Vivo",00 - Lifetime
 http://181.224.255.210:8001/play/a0q6/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 - Stingray Concerts HD
+#EXTINF:-1 group-title="Television en Vivo",00 - Stingray Concerts HD
 http://181.224.255.210:8001/play/a0pu/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 ATV HD
+#EXTINF:-1 group-title="Television en Vivo",00 ATV HD
 http://181.224.255.210:8001/play/a0s6/index.m3u8
-#EXTINF:-1 group-title="Variedades",00_EXITOSA
+#EXTINF:-1 group-title="Television en Vivo",00_EXITOSA
 http://181.224.255.210:8001/play/a0sm/index.m3u8
-#EXTINF:-1 group-title="Variedades",00_LATINA
+#EXTINF:-1 group-title="Television en Vivo",00_LATINA
 http://181.224.255.210:8001/play/a0sn/index.m3u8
-#EXTINF:-1 group-title="Variedades",1.2 - WILLAX HD
+#EXTINF:-1 group-title="Television en Vivo",1.2 - WILLAX HD
 http://181.224.255.210:8001/play/a0s7/index.m3u8
-#EXTINF:-1 group-title="Variedades",3.3 - PANAMERICANA HD
+#EXTINF:-1 group-title="Television en Vivo",3.3 - PANAMERICANA HD
 http://181.224.255.210:8001/play/a0s5/index.m3u8
-#EXTINF:-1 group-title="Variedades",3.4 America TV HD
+#EXTINF:-1 group-title="Television en Vivo",3.4 America TV HD
 http://181.224.255.210:8001/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="Variedades",3.5 RPP
+#EXTINF:-1 group-title="Television en Vivo",3.5 RPP
 http://181.224.255.210:8001/play/a0r8/index.m3u8
-#EXTINF:-1 group-title="Variedades",4.1 Latina HD
+#EXTINF:-1 group-title="Television en Vivo",4.1 Latina HD
 http://181.224.255.210:8001/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="Variedades",A&E HD
+#EXTINF:-1 group-title="Television en Vivo",A&E HD
 http://181.224.255.210:8001/play/a0edfhg/index.m3u8
-#EXTINF:-1 group-title="Variedades",A1 TV
+#EXTINF:-1 group-title="Television en Vivo",A1 TV
 http://181.224.255.210:8001/play/a0rz/index.m3u8
-#EXTINF:-1 group-title="Variedades",AMC HD
+#EXTINF:-1 group-title="Television en Vivo",AMC HD
 http://181.224.255.210:8001/play/a0f7/index.m3u8
-#EXTINF:-1 group-title="Variedades",AMC Series
+#EXTINF:-1 group-title="Television en Vivo",AMC Series
 http://181.224.255.210:8001/play/a0qn/index.m3u8
-#EXTINF:-1 group-title="Variedades",ATV
+#EXTINF:-1 group-title="Television en Vivo",ATV
 http://181.224.255.210:8001/play/a0r7/index.m3u8
-#EXTINF:-1 group-title="Variedades",AXN HD
+#EXTINF:-1 group-title="Television en Vivo",AXN HD
 http://181.224.255.210:8001/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="Variedades",Animal Planet HD
+#EXTINF:-1 group-title="Television en Vivo",Animal Planet HD
 http://181.224.255.210:8001/play/a0lz/index.m3u8
-#EXTINF:-1 group-title="Variedades",Antena 3
+#EXTINF:-1 group-title="Television en Vivo",Antena 3
 http://181.224.255.210:8001/play/a0rc/index.m3u8
-#EXTINF:-1 group-title="Variedades",Atres Series
+#EXTINF:-1 group-title="Television en Vivo",Atres Series
 http://181.224.255.210:8001/play/a0rm/index.m3u8
-#EXTINF:-1 group-title="Variedades",BBC News
+#EXTINF:-1 group-title="Television en Vivo",BBC News
 http://181.224.255.210:8001/play/a0ra/index.m3u8
-#EXTINF:-1 group-title="Variedades",BETHEL
+#EXTINF:-1 group-title="Television en Vivo",BETHEL
 http://181.224.255.210:8001/play/a0fv/index.m3u8
-#EXTINF:-1 group-title="Variedades",Baby TV
+#EXTINF:-1 group-title="Television en Vivo",Baby TV
 http://181.224.255.210:8001/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="Variedades",CNN International
+#EXTINF:-1 group-title="Television en Vivo",CNN International
 http://181.224.255.210:8001/play/a0px/index.m3u8
-#EXTINF:-1 group-title="Variedades",CR TV
+#EXTINF:-1 group-title="Television en Vivo",CR TV
 http://181.224.255.210:8001/play/a0rt/index.m3u8
-#EXTINF:-1 group-title="Variedades",Cartoon Network HD
+#EXTINF:-1 group-title="Television en Vivo",Cartoon Network HD
 http://181.224.255.210:8001/play/a0py/index.m3u8
-#EXTINF:-1 group-title="Variedades",Cartoonito
+#EXTINF:-1 group-title="Television en Vivo",Cartoonito
 http://181.224.255.210:8001/play/a0ml/index.m3u8
-#EXTINF:-1 group-title="Variedades",Cinecanal HD
+#EXTINF:-1 group-title="Television en Vivo",Cinecanal HD
 http://181.224.255.210:8001/play/a0ob/index.m3u8
-#EXTINF:-1 group-title="Variedades",Cinemax HD
+#EXTINF:-1 group-title="Television en Vivo",Cinemax HD
 http://181.224.255.210:8001/play/a0mk/index.m3u8
-#EXTINF:-1 group-title="Variedades",Comedy Central HD
+#EXTINF:-1 group-title="Television en Vivo",Comedy Central HD
 http://181.224.255.210:8001/play/a0ew/index.m3u8
-#EXTINF:-1 group-title="Variedades",DHE HD
+#EXTINF:-1 group-title="Television en Vivo",DHE HD
 http://181.224.255.210:8001/play/a0nt/index.m3u8
-#EXTINF:-1 group-title="Variedades",DW Espaæol
+#EXTINF:-1 group-title="Television en Vivo",DW Espaæol
 http://181.224.255.210:8001/play/a0rj/index.m3u8
-#EXTINF:-1 group-title="Variedades",De PelŦcula
+#EXTINF:-1 group-title="Television en Vivo",De PelŦcula
 http://181.224.255.210:8001/play/a0qy/index.m3u8
-#EXTINF:-1 group-title="Variedades",Discovery Channel  HD
+#EXTINF:-1 group-title="Television en Vivo",Discovery Channel  HD
 http://181.224.255.210:8001/play/a0m0/index.m3u8
-#EXTINF:-1 group-title="Variedades",Discovery Kids HD
+#EXTINF:-1 group-title="Television en Vivo",Discovery Kids HD
 http://181.224.255.210:8001/play/a0pv/index.m3u8
-#EXTINF:-1 group-title="Variedades",Discovery Science
+#EXTINF:-1 group-title="Television en Vivo",Discovery Science
 http://181.224.255.210:8001/play/a0mo/index.m3u8
-#EXTINF:-1 group-title="Variedades",Discovery Theater HD
+#EXTINF:-1 group-title="Television en Vivo",Discovery Theater HD
 http://181.224.255.210:8001/play/a0fc/index.m3u8
-#EXTINF:-1 group-title="Variedades",Discovery Turbo
+#EXTINF:-1 group-title="Television en Vivo",Discovery Turbo
 http://181.224.255.210:8001/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="Variedades",Discovery World HD
+#EXTINF:-1 group-title="Television en Vivo",Discovery World HD
 http://181.224.255.210:8001/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="Variedades",Disney Channel HD
+#EXTINF:-1 group-title="Television en Vivo",Disney Channel HD
 http://181.224.255.210:8001/play/a0oe/index.m3u8
-#EXTINF:-1 group-title="Variedades",Disney Jr.
+#EXTINF:-1 group-title="Television en Vivo",Disney Jr.
 http://181.224.255.210:8001/play/a0ny/index.m3u8
-#EXTINF:-1 group-title="Variedades",Distrito Comedia
+#EXTINF:-1 group-title="Television en Vivo",Distrito Comedia
 http://181.224.255.210:8001/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="Variedades",EWTN
+#EXTINF:-1 group-title="Television en Vivo",EWTN
 http://181.224.255.210:8001/play/a0ow/index.m3u8
-#EXTINF:-1 group-title="Variedades",El Gourmet HD
+#EXTINF:-1 group-title="Television en Vivo",El Gourmet HD
 http://181.224.255.210:8001/play/a0ex/index.m3u8
-#EXTINF:-1 group-title="Variedades",Enlace
+#EXTINF:-1 group-title="Television en Vivo",Enlace
 http://181.224.255.210:8001/play/a0q7/index.m3u8
-#EXTINF:-1 group-title="Variedades",Europa Europa
+#EXTINF:-1 group-title="Television en Vivo",Europa Europa
 http://181.224.255.210:8001/play/a0qx/index.m3u8
-#EXTINF:-1 group-title="Variedades",Exitosa TV
+#EXTINF:-1 group-title="Television en Vivo",Exitosa TV
 http://181.224.255.210:8001/play/a0so/index.m3u8
-#EXTINF:-1 group-title="Variedades",FX HD
+#EXTINF:-1 group-title="Television en Vivo",FX HD
 http://181.224.255.210:8001/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="Variedades",Film&Arts
+#EXTINF:-1 group-title="Television en Vivo",Film&Arts
 http://181.224.255.210:8001/play/a0ql/index.m3u8
-#EXTINF:-1 group-title="Variedades",Food Network
+#EXTINF:-1 group-title="Television en Vivo",Food Network
 http://181.224.255.210:8001/play/a0om/index.m3u8
-#EXTINF:-1 group-title="Variedades",France 24
+#EXTINF:-1 group-title="Television en Vivo",France 24
 http://181.224.255.210:8001/play/a0rh/index.m3u8
-#EXTINF:-1 group-title="Variedades",Global
+#EXTINF:-1 group-title="Television en Vivo",Global
 http://181.224.255.210:8001/play/a0r9/index.m3u8
-#EXTINF:-1 group-title="Variedades",Golden
+#EXTINF:-1 group-title="Television en Vivo",Golden
 http://181.224.255.210:8001/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="Variedades",Golden Edge
+#EXTINF:-1 group-title="Television en Vivo",Golden Edge
 http://181.224.255.210:8001/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="Variedades",Golden HD
+#EXTINF:-1 group-title="Television en Vivo",Golden HD
 http://181.224.255.210:8001/play/a0qg/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO Family HD
+#EXTINF:-1 group-title="Television en Vivo",HBO Family HD
 http://181.224.255.210:8001/play/a0nv/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO HD
+#EXTINF:-1 group-title="Television en Vivo",HBO HD
 http://181.224.255.210:8001/play/a0f161/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO Mundi
+#EXTINF:-1 group-title="Television en Vivo",HBO Mundi
 http://181.224.255.210:8001/play/a0rf/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO POP
+#EXTINF:-1 group-title="Television en Vivo",HBO POP
 http://181.224.255.210:8001/play/a0on/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO Plus
+#EXTINF:-1 group-title="Television en Vivo",HBO Plus
 http://181.224.255.210:8001/play/a0qz/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO Signature
+#EXTINF:-1 group-title="Television en Vivo",HBO Signature
 http://181.224.255.210:8001/play/a0re/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO XTREME HD
+#EXTINF:-1 group-title="Television en Vivo",HBO XTREME HD
 http://181.224.255.210:8001/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="Variedades",HBO Xtreme HD
+#EXTINF:-1 group-title="Television en Vivo",HBO Xtreme HD
 http://181.224.255.210:8001/play/a0oo/index.m3u8
-#EXTINF:-1 group-title="Variedades",HEI HD
+#EXTINF:-1 group-title="Television en Vivo",HEI HD
 http://181.224.255.210:8001/play/a0sg/index.m3u8
-#EXTINF:-1 group-title="Variedades",HGTV
+#EXTINF:-1 group-title="Television en Vivo",HGTV
 http://181.224.255.210:8001/play/a0mp/index.m3u8
-#EXTINF:-1 group-title="Variedades",HTV
+#EXTINF:-1 group-title="Television en Vivo",HTV
 http://181.224.255.210:8001/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="Variedades",History 2
+#EXTINF:-1 group-title="Television en Vivo",History 2
 http://181.224.255.210:8001/play/a0qh/index.m3u8
-#EXTINF:-1 group-title="Variedades",History Channel HD
+#EXTINF:-1 group-title="Television en Vivo",History Channel HD
 http://181.224.200.5:2277/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Variedades",Home & Health HD
+#EXTINF:-1 group-title="Television en Vivo",Home & Health HD
 http://181.224.255.210:8001/play/a0st/index.m3u8
-#EXTINF:-1 group-title="Variedades",ID HD
+#EXTINF:-1 group-title="Television en Vivo",ID HD
 http://181.224.255.210:8001/play/a0m9/index.m3u8
-#EXTINF:-1 group-title="Variedades",Kanal D Drama
+#EXTINF:-1 group-title="Television en Vivo",Kanal D Drama
 http://181.224.255.210:8001/play/a0sq/index.m3u8
-#EXTINF:-1 group-title="Variedades",Las Estrellas HD
+#EXTINF:-1 group-title="Television en Vivo",Las Estrellas HD
 http://181.224.255.210:8001/play/a0se/index.m3u8
-#EXTINF:-1 group-title="Variedades",Love Nature
+#EXTINF:-1 group-title="Television en Vivo",Love Nature
 http://181.224.255.210:8001/play/a0sr/index.m3u8
-#EXTINF:-1 group-title="Variedades",MTV HD
+#EXTINF:-1 group-title="Television en Vivo",MTV HD
 http://181.224.255.210:8001/play/a0f9/index.m3u8
-#EXTINF:-1 group-title="Variedades",NTN24
+#EXTINF:-1 group-title="Television en Vivo",NTN24
 http://181.224.255.210:8001/play/a0qp/index.m3u8
-#EXTINF:-1 group-title="Variedades",Nat Geo HD
+#EXTINF:-1 group-title="Television en Vivo",Nat Geo HD
 http://181.224.255.210:8001/play/a0m2/index.m3u8
-#EXTINF:-1 group-title="Variedades",Nick HD
+#EXTINF:-1 group-title="Television en Vivo",Nick HD
 http://181.224.255.210:8001/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="Variedades",Nick Jr
+#EXTINF:-1 group-title="Television en Vivo",Nick Jr
 http://181.224.255.210:8001/play/a0mm/index.m3u8
-#EXTINF:-1 group-title="Variedades",Nick Music
+#EXTINF:-1 group-title="Television en Vivo",Nick Music
 http://181.224.255.210:8001/play/a0qj/index.m3u8
-#EXTINF:-1 group-title="Variedades",Nickelodeon HD
+#EXTINF:-1 group-title="Television en Vivo",Nickelodeon HD
 http://181.224.255.210:8001/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="Variedades",Nuestra Tele
+#EXTINF:-1 group-title="Television en Vivo",Nuestra Tele
 http://181.224.255.210:8001/play/a0qi/index.m3u8
-#EXTINF:-1 group-title="Variedades",OROMAR TV
+#EXTINF:-1 group-title="Television en Vivo",OROMAR TV
 http://181.224.255.210:8001/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="Variedades",POPU TV
+#EXTINF:-1 group-title="Television en Vivo",POPU TV
 http://181.224.255.210:8001/play/a0sh/index.m3u8
-#EXTINF:-1 group-title="Variedades",Panamericana
+#EXTINF:-1 group-title="Television en Vivo",Panamericana
 http://181.224.255.210:8001/play/a0r6/index.m3u8
-#EXTINF:-1 group-title="Variedades",Pasiones HD
+#EXTINF:-1 group-title="Television en Vivo",Pasiones HD
 http://181.224.255.210:8001/play/a0s0/index.m3u8
-#EXTINF:-1 group-title="Variedades",SUMAC
+#EXTINF:-1 group-title="Television en Vivo",SUMAC
 http://181.224.255.210:8001/play/a0rs/index.m3u8
-#EXTINF:-1 group-title="Variedades",Sony HD
+#EXTINF:-1 group-title="Television en Vivo",Sony HD
 http://181.224.255.210:8001/play/a0oc/index.m3u8
-#EXTINF:-1 group-title="Variedades",Space HD
+#EXTINF:-1 group-title="Television en Vivo",Space HD
 http://181.224.255.210:8001/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="Variedades",Star Channel HD
+#EXTINF:-1 group-title="Television en Vivo",Star Channel HD
 http://181.224.255.210:8001/play/a0oh/index.m3u8
-#EXTINF:-1 group-title="Variedades",Studio Universal HD
+#EXTINF:-1 group-title="Television en Vivo",Studio Universal HD
 http://181.224.255.210:8001/play/a0sc/index.m3u8
-#EXTINF:-1 group-title="Variedades",Sun Channel HD
+#EXTINF:-1 group-title="Television en Vivo",Sun Channel HD
 http://181.224.255.210:8001/play/a0nx/index.m3u8
-#EXTINF:-1 group-title="Variedades",TCM
+#EXTINF:-1 group-title="Television en Vivo",TCM
 http://181.224.255.210:8001/play/a0qw/index.m3u8
-#EXTINF:-1 group-title="Variedades",TELE LIMA
+#EXTINF:-1 group-title="Television en Vivo",TELE LIMA
 http://181.224.255.210:8001/play/a0rp/index.m3u8
-#EXTINF:-1 group-title="Variedades",TLC
+#EXTINF:-1 group-title="Television en Vivo",TLC
 http://181.224.255.210:8001/play/a0mn/index.m3u8
-#EXTINF:-1 group-title="Variedades",TNT HD
+#EXTINF:-1 group-title="Television en Vivo",TNT HD
 http://181.224.255.210:8001/play/a0oa/index.m3u8
-#EXTINF:-1 group-title="Variedades",TNT Novelas HD
+#EXTINF:-1 group-title="Television en Vivo",TNT Novelas HD
 http://181.224.255.210:8001/play/a0lv/index.m3u8
-#EXTINF:-1 group-title="Variedades",TNT Series HD
+#EXTINF:-1 group-title="Television en Vivo",TNT Series HD
 http://181.224.255.210:8001/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="Variedades",TV Perœ
+#EXTINF:-1 group-title="Television en Vivo",TV Perœ
 http://181.224.255.210:8001/play/a0ss/index.m3u8
-#EXTINF:-1 group-title="Variedades",TVE
+#EXTINF:-1 group-title="Television en Vivo",TVE
 http://181.224.255.210:8001/play/a0q9/index.m3u8
-#EXTINF:-1 group-title="Variedades",Teen Nick
+#EXTINF:-1 group-title="Television en Vivo",Teen Nick
 http://181.224.255.210:8001/play/a0qk/index.m3u8
-#EXTINF:-1 group-title="Variedades",Telemundo
+#EXTINF:-1 group-title="Television en Vivo",Telemundo
 http://181.224.255.210:8001/play/a0ot/index.m3u8
-#EXTINF:-1 group-title="Variedades",Tlnovelas
+#EXTINF:-1 group-title="Television en Vivo",Tlnovelas
 http://181.224.255.210:8001/play/a0qm/index.m3u8
-#EXTINF:-1 group-title="Variedades",Tooncast
+#EXTINF:-1 group-title="Television en Vivo",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8
-#EXTINF:-1 group-title="Variedades",UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="Television en Vivo",UNIVERSAL CHANNEL HD
 http://181.224.255.210:8001/play/a0lp/index.m3u8
-#EXTINF:-1 group-title="Variedades",USA
+#EXTINF:-1 group-title="Television en Vivo",USA
 http://181.224.255.210:8001/play/a0qt/index.m3u8
-#EXTINF:-1 group-title="Variedades",Via X Esports
+#EXTINF:-1 group-title="Television en Vivo",Via X Esports
 http://181.224.255.210:8001/play/a0qs/index.m3u8
-#EXTINF:-1 group-title="Variedades",BeIN Sports XTRA
-https://bein-esp-xumo.amagi.tv/playlist.m3u8#7c79d6813c727b2298c3f02ad18e9d54452d7f39c3a12db1aad325df4f6bb5e5
-#EXTINF:-1 group-title="Variedades",WEST
+#EXTINF:-1 group-title="Television en Vivo",WEST
 http://181.224.255.210:8001/play/a0rq/index.m3u8
-#EXTINF:-1 group-title="Variedades",Warner TV HD
+#EXTINF:-1 group-title="Television en Vivo",Warner TV HD
 http://181.224.255.210:8001/play/a0od/index.m3u8
-#EXTINF:-1 group-title="Variedades",Willax
+#EXTINF:-1 group-title="Television en Vivo",Willax
 http://181.224.255.210:8001/play/a0sp/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",00 - El Garage
+https://stream1.sersat.com/hls/garagetv.m3u8#b06f1fofac96a94ef4604f24c9f9b020702d219ac07a2532bd99a9b9b73b3c1f4
 
+
+# ==================== CARPETA: DEPORTES ====================
 #EXTINF:-1 group-title="Deportes",TUDN Mx
 https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=ooNMMc67ky59icpIR7JEtg:4s79h7Upmr6J8AbXY8ldA1C4uVHhJCSapcSNSPCuGEx7iidFlMRKSv7XVuAtJm-36vbNagW5qVbl9e6-PxPkiwdNkxqO-_tKyPa2Y6gjME-ZYhwb9Eq0tTwVslWOD3tkX_Hih1ugHZ-ncrrI88tPbYyVrDoNLAxFsct5kDnBZD9PB_waqKM3aX7UzOLCfpnL9aI1qhrEBF90AaKOhh_HAheIAqxNhNXMwNvx3dBDKI7jWVLgKVoOO0RBJjrxUyNNzCIqEKh6ThBTv8bEse_1B6IIXk-dVbexIyaEyFfbfFEOlvVbIJG94jrFW1meBUjAgu0PZmo1GFSavctUMpHQ774jlacYaoZoOKv8_kGbaXGAk0G5P4fjIDafbjXs0hsFDm9EqKLYZoLTLK-i0K3td8Bg24XT4uRi9BNunCOnMM8U3_9fQXhFlqvG328S2fyFSf_Z7am_fwS5eVx2mQRXuqxLkQGUmW5Ev9ACwS9gmVLwf9ShK4gB3fuzjqUdnsaPUBze7kA6bcTPB1WuXIB37q1qCegeAuSF-jDpSG-8cuKurnkoT0Do5_tthxjRVe2l-kRej10JaIKPgj6OvZYaq6WfXv7aA0x7fF9Cx8234x8GWXSdqLbrSqzAOkSqnEx-gMIm-3G6hCtsvE7_5me_rsuMoDui_mObMXOscg0QHzdvXCoDHRIX2fqGWOvjmpHeD49iPR0hiSZVzELGcq9fXg&anvtrid=f58feddc6da52b2aaa3a72d6f3c8745e&anvauth=tb=0~te=1783906183~sgn=15e713787547252831a67053bab484bc489a5f303dff4f905bc96c4dc84d0ea4&t=1783906093#7a698b75a33351013c49549372f213b0bdcdb60bc90307bbee5501ab2ac9b932
 #EXTINF:-1 group-title="Deportes",DSPORTS
@@ -308,28 +310,116 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 group-title="Deportes",14.2 - LIGA UNO HD
 http://181.224.255.210:8001/play/a0sf/index.m3u8
 
-#EXTINF:-1 group-title="Motor",00 - El Garage
-https://stream1.sersat.com/hls/garagetv.m3u8#b06f1fofac96a94ef4604f24c9f9b020702d219ac07a2532bd99a9b9b73b3c1f4
+
+# ==================== CARPETA ÚNICA: PELÍCULAS ====================
+#EXTINF:-1 group-title="PELICULAS",Toy Story 5 calidad cine
+https://vod-limit-02.playspelis.com/b03009916b8f71f180ace6f6c44a0102/9fe7c051bd2946259361f3a2fd51ec65-microframe-sd.m3u8?hdnts=exp=1783732744_acl=/b03009916b8f71f180ace6f6c44a0102/*_hmac=5e98bcff958e0993fde0e280cae993c8b81e7a118b429b3450cdfa5d3a404867
+#EXTINF:-1 group-title="PELICULAS",Las ovejas detectives
+https://delivery-limit-c.123pelicula.com/a0d01bac6faf71f1814fe6f6c55a0102/30fdb3b483794b5f9036890b443324a7-microframe-sd.m3u8?hdnts=exp=1784225804_acl=/a0d01bac6faf71f1814fe6f6c55a0102/*_hmac=f6d85fe6456c4e059606e1955836200a166007fe7257e31460424b4987740ada
+#EXTINF:-1 group-title="PELICULAS",Zootrópolis 2
+https://c4-limit.cuevana4br.com/0082cc9ce94c71f0b7c54177d1c00102/8573f86817634077af98ff9621322ac5-microframe-sd.m3u8?hdnts=exp=1784225862_acl=/0082cc9ce94c71f0b7c54177d1c00102/*_hmac=d001f92dddff93d4e9faaa23ca78240dfb7f1029d1193e06285fc5f342d4b7ff
+#EXTINF:-1 group-title="PELICULAS",Super Mario Galaxy la película
+https://vod-limit-media.123flmsfree.com/303170255b1071f1bfe0f6e7c5680102/2a100334ed0d4cf29e525660ffa66ac7-microframe-sd.m3u8?hdnts=exp=1784248535_acl=/303170255b1071f1bfe0f6e7c5680102/*_hmac=e28d71430a69d23bd4738d77a9ac16808a151738b7956e34e5bd69fa642e749d
+#EXTINF:-1 group-title="PELICULAS",El diablo viste de Prada 2
+https://data-limit-c.solo-latino.com/c02a2a3d742d71f1818fe6f6c55a0102/e8ad90998465472aad8a435951a20fd1-microframe-sd.m3u8?hdnts=exp=1783711778_acl=/c02a2a3d742d71f1818fe6f6c55a0102/*_hmac=51e397c2969fadf0947c95f6415fe58e9ad8f51f4c3fbda1fbe82f18215600e9
+#EXTINF:-1 group-title="PELICULAS",Culpa nuestra
+https://cf-cdn-play.pokiki.com/a0ccc025aa6071f0bd534177d0d10102/bcbbfea3e3578e70a2c2e8d36d6c62f7-sd.m3u8?auth_key=1783619967-ab9bd40ab7374d358cc025dbbcadbc8e-0-2f8715663900491ec374633b201a2f1e&exp=1783706367
+#EXTINF:-1 group-title="PELICULAS",La novia del año
+https://vod-limit-media.123flmsfree.com/c0a098ee50ec71f19a7ef7f7c5580102/825a61dc889a43bbb785bdab00893c0b-microframe-sd.m3u8?hdnts=exp=1784247048_acl=/c0a098ee50ec71f19a7ef7f7c5580102/*_hmac=f10a36bd20af5f56a2430f95acb34acfa06a08d6f26c32a3c1359a24989d972e
+#EXTINF:-1 group-title="PELICULAS",El lobo de Wall Street
+https://delivery-limit-c.123pelicula.com/60ffbe1ed48471efaf175114c1ca0102/b00fb184b03145dba8cc9bfa87ca8d2e-04f2ec190f884e8e083d0aab40674bc9-sd.m3u8?hdnts=exp=1784247570_acl=/60ffbe1ed48471efaf175114c1ca0102/*_hmac=20e0a08cde897851fe74859595d65622cf6e64cf7fefb8ee7c244fc29581ff9b
+#EXTINF:-1 group-title="PELICULAS",Comer, rezar, ladrar
+https://s1.vimeos.net/hls2/03/00010/0klmwrv92bj1_,n,h,.urlset/master.m3u8?t=OEUoVRz1rpwNGkjlrXCfJgneevkWmN32JPbavG1rlQU&s=1783642581&e=43200&v=286341225&i=0.0&sp=0&fr=0klmwrv92bj1&r=e
+#EXTINF:-1 group-title="PELICULAS",La Guerra Del Mañana
+https://vod-limit-media.123flmsfree.com/1076190866dc71f088534177d0d10102/fa39d556e53244cebfafac0a266c7328-3321c1ea801153d5d7582c669b8f8091-sd.m3u8?hdnts=exp=1784246884_acl=/1076190866dc71f088534177d0d10102/*_hmac=ac4c7422a406b6d49793de0d134eaad2858a013237bb49ecd3f7543b897d2cea
+#EXTINF:-1 group-title="PELICULAS",La guerra del futuro
+https://media-limit-xr8a2.peliculaplay.com/10597ca39abc71f08d142680f9ea0102/d2d4a1b6d40a2ee4d58144fc90adf017-sd.m3u8?hdnts=exp=1784246882_acl=/10597ca39abc71f08d142680f9ea0102/*_hmac=3b9fc65397314a2f529f238136fd24ab9a1ae18b0d5c3d8a261ca398ce9ff16c
+#EXTINF:-1 group-title="PELICULAS",Amos del Universo
+https://vod-limit-media.123flmsfree.com/50fe205a62f471f1aeb4e7f7c46b0102/1737d13bb5ae422a9f903baeedcd2234-microframe-sd.m3u8?hdnts=exp=1784241259_acl=/50fe205a62f471f1aeb4e7f7c46b0102/*_hmac=b49d6919edde1a12abdc9b2ddec4fb76d71665e69c21cb2763fa1e2b327afe15
+#EXTINF:-1 group-title="PELICULAS",El Día del Fin del Mundo
+https://r-limit.flixlat.com/b011cfe22ef271f0bfaf4177d0d10102/5821ec71f382447b9e4792bc3fad27cf-0d109071ac3f10bc9dcb449c9a8d1b19-sd.m3u8?hdnts=exp=1784239654_acl=/b011cfe22ef271f0bfaf4177d0d10102/*_hmac=6181d4afe1a29041f80b213c116d69e6e558c5ec666d8c7d36e5cdf259a06638
+#EXTINF:-1 group-title="PELICULAS",El día del fin del mundo: Migración
+https://r-limit.flixlat.com/00b64572058071f18d4036a5e8aa0102/986ddb5ce3e3454c94242f93cac0a7b1-microframe-sd.m3u8?hdnts=exp=1784247213_acl=/00b64572058071f18d4036a5e8aa0102/*_hmac=e26208ac5e20f1434590d8e5cf8dcb5190e63bd6f724610d5c81e5d5bd9b8a9f
+#EXTINF:-1 group-title="PELICULAS",Avatar: Fuego y ceniza
+https://vod-limit-media.123flmsfree.com/d03a981f2ce171f190884077c0c30102/9b3b2866a23f4078ad68b7c1f49dfa63-microframe-sd.m3u8?hdnts=exp=1784244775_acl=/d03a981f2ce171f190884077c0c30102/*_hmac=1c5af6aea92a9d967268f84731a188484746ff3d860acaa18571979bb0e4dd69
+#EXTINF:-1 group-title="PELICULAS",Jurassic World: El renacer
+https://vod-limit-stream.dramasfree.com/e01205cd78de71f0bfc487c7361c0102/7039d964b0202d82da2cfa489f96e37f-sd.m3u8?hdnts=exp=1784209231_acl=/e01205cd78de71f0bfc487c7361c0102/*_hmac=06afdac10cbeedac8872e2bdaeac483b25db85bbf37b6656ee5275e35fdbf95d
+#EXTINF:-1 group-title="PELICULAS",Proyecto Salvación
+https://vod-limit-02.playspelis.com/f06f306f59a471f1bfb7e7f66c4490102/28ce8b2b1fc346b0a4e0cea9a5f5138c-microframe-sd.m3u8?hdnts=exp=1784248441_acl=/f06f306f59a471f1bfb7e7f6c4490102/*_hmac=967c54d53dbe9d4e2f81ac96ee17a47af935d7ccb625176047714d5217defafc
+#EXTINF:-1 group-title="PELICULAS",Destino final lazos de sangre
+https://stream-limit-vid.321moviesfree.com/409cc9b4555871f0a08536a5e8aa0102/99535d8198e0efc6a2b5aacabeb644d7-sd.m3u8?hdnts=exp=1784246584_acl=/409cc9b4555871f0a08536a5e8aa0102/*_hmac=3018e57c79b06419daa3b6d73dd224e15a7388725e7da00753e5b80c886eca96
+#EXTINF:-1 group-title="PELICULAS",El abismo secreto
+https://s14.vimeos.net/hls2/03/00000/ne4kvx1q57pn_,n,h,.urlset/master.m3u8?t=GPtuAilpvGnE1p1Fum_Qg6Yse2nkQi7tyYRL1sltKeg&s=1783642171&e=43200&v=286333027&i=0.3&sp=0&r=e
+#EXTINF:-1 group-title="PELICULAS",Obsesión
+https://vod-limit-media.123flmsfree.com/105f2308744471f18585e6e7c74a0102/ad391f8f68e04b30856ba3e2f126b8fa-microframe-ld.m3u8?hdnts=exp=1784247017_acl=/105f2308744471f18585e6e7c74a0102/*_hmac=912675f68c746e71ac8fdbe48a1eb49768474ff3e55f38182443eb35aee5bc01
+#EXTINF:-1 group-title="PELICULAS",La boda maldita
+https://vod-limit-02.playspelis.com/a01838a1693471f19613f6e6c5490102/e52c94f664aa4b659c331340b3fb9e03-microframe-sd.m3u8?hdnts=exp=1784247502_acl=/a01838a1693471f19613f6e6c5490102/*_hmac=2b82afd8c707ce6428a8b607187adcb78a23d2a60b5adb83fc9523062b0dd463
+#EXTINF:-1 group-title="PELICULAS",El día de la revelación
+https://vod-limit-res.cuevana.life/c01e3851706b71f1a55cf6f7d6580102/838ea227eed24a84aff82dfdeb37ff14-microframe-sd.m3u8?hdnts=exp=1784247611_acl=/c01e3851706b71f1a55cf6f7d6580102/*_hmac=b11236b440c4df23610ea1b9fab319f26a0abb5a0c31f0a364ed4e72b186af18
+#EXTINF:-1 group-title="PELICULAS",La bruja
+https://vod-limit-stream.dramasfree.com/d0dab3ae500071f0864b2680f9ea0102/14836788aaf1402e97ffadcc592a0eea-9daf8709f3beffcc86e3d61b09926c45-sd.m3u8?hdnts=exp=1784248580_acl=/d0dab3ae500071f0864b2680f9ea0102/*_hmac=ae3d5a4aee563eb2e5f71d7408278c6c7e32eac917e8d1c861e747dc4e87d1f9
+#EXTINF:-1 group-title="PELICULAS",Nadie va a escuchar tu grito
+https://data-limit-c.solo-latino.com/800b681e51bd71f1b271f6e6d44a0102/7d9408bfae8b4f3ab5e47aa0ef454a1c-microframe-sd.m3u8?hdnts=exp=1784248650_acl=/800b681e51bd71f1b271f6e6d44a0102/*_hmac=8268f4ff68fe6563025ec4d36f4ec8613ff12b761e4469d4502242a218d390a5
+#EXTINF:-1 group-title="PELICULAS",M3GAN
+https://data-limit-c.solo-latino.com/104eb3cf28bd71f0801436a5e8aa0102/ab7586c1d4c5d41a71a9cd3090fb8b75-sd.m3u8?hdnts=exp=1784248720_acl=/104eb3cf28bd71f0801436a5e8aa0102/*_hmac=1fba47ee4f7b38ebd6370401a80ed659953a7e1f099c1c66dda4c5de332b9e1d
+#EXTINF:-1 group-title="PELICULAS",M3GAN 2.0
+https://data-limit-c.solo-latino.com/50fad5c98d2771f08f9d5114c1ca0102/b778c3cb51962457d642faadb13871cf-sd.m3u8?hdnts=exp=1784221290_acl=/50fad5c98d2771f08f9d5114c1ca0102/*_hmac=12d8d706bfe260142cfc9e515a5d39018d856a666d90e9fd09897a3422f4b83a
+#EXTINF:-1 group-title="PELICULAS",Backrooms
+https://vod-limit-res.cuevana.life/304c1ed85bf771f1bf99e6f6c55a0102/c5e553686a25421d9dfac43e6e51ef9c-microframe-sd.m3u8?hdnts=exp=1784243942_acl=/304c1ed85bf771f1bf99e6f6c55a0102/*_hmac=e5bb7ed6900119818d1e5d3861a401b2b77b952eab6cdc76b3cff6f11b7e6e41
+#EXTINF:-1 group-title="PELICULAS",Scary Movie
+https://media-limit-xr8a2.peliculaplay.com/e02d1614f82d71f080072680f9ea0102/11bf1fa46e2a462bae9719c1ee5af668-microframe-sd.m3u8?hdnts=exp=1784247810_acl=/e02d1614f82d71f080072680f9ea0102/*_hmac=c435c551ad5d8db875cb53d7015f2064211e4b990e3fe41f728e34f08b36c9ce
+#EXTINF:-1 group-title="PELICULAS",Scary Movie 2
+https://media-limit-xr8a2.peliculaplay.com/70f438a22fd071f0885f2680f9ea0102/8ca1ee7db60f4e609b2aca6698834d71-a01e56ab6cfe96c9417b17aaf9d61797-sd.m3u8?hdnts=exp=1784247840_acl=/70f438a22fd071f0885f2680f9ea0102/*_hmac=ce0cca1ba2ca87d7a322d4ed2120d625fa2e333076f47cc2f0b829c510e6efc8
+#EXTINF:-1 group-title="PELICULAS",Scary Movie 3
+https://media-limit-xr8a2.peliculaplay.com/40eb0020f50871f0800f97c6360c0102/2107a16920694d1e89259b733418d0b7-microframe-sd.m3u8?hdnts=exp=1784247868_acl=/40eb0020f50871f0800f97c6360c0102/*_hmac=464bef6c401cc2e8bb051db8b4cd6d0b6998850a9068864cedeff1f9b2f711fd
+#EXTINF:-1 group-title="PELICULAS",Scary Movie 4
+https://media-limit-xr8a2.peliculaplay.com/00b64ae32fd171f0bfdd87c6371c0102/ba63e4137de945ef84286230784492ac-c010099bbd28173b4002c96cf5be02ab-sd.m3u8?hdnts=exp=1784247896_acl=/00b64ae32fd171f0bfdd87c6371c0102/*_hmac=aacd8cec3eab0fdc1811be5353f5ac36e546cab1875b8d76f50c7a1de77a7fe6
+#EXTINF:-1 group-title="PELICULAS",Scary Movie 5
+https://media-limit-xr8a2.peliculaplay.com/407deaa92fd271f0bfe897c6360c0102/3a4cac5cf3ff4f4c8e756564c13bc889-1bfa1fe862931453000bc97fbe098f58-sd.m3u8?hdnts=exp=1784247925_acl=/407deaa92fd271f0bfe897c6360c0102/*_hmac=40495fec14caa0a49207fd0363ea5d15fe101903a4bdfaa0a5160db419fbaa06
+#EXTINF:-1 group-title="PELICULAS",Scary Movie 2026
+https://media-limit-xr8a2.peliculaplay.com/e0d2c11d608371f18f72e6f7d4580102/53083b9b88fb4c62bcf27ce260d0798d-microframe-sd.m3u8?hdnts=exp=1784233231_acl=/e0d2c11d608371f18f72e6f7d4580102/*_hmac=fdae29765d293cae10ef89eb0d1f547efc6d7490f9e3c65f8ae8b6bfede9433b
+#EXTINF:-1 group-title="PELICULAS",En la Ruta del Crimen
+https://c4-limit.cuevana4br.com/00e79496dfc71f18543e6e7c74a0102/b0500c0f94da4a8d908965c9dbae8ccb-microframe-sd.m3u8?hdnts=exp=1784246845_acl=/f0ee79496dfc71f18543e6e7c74a0102/*_hmac=3bd2d542d2b5aacb0a71e560772d464974848214fe995d00d5642f719159535f
+#EXTINF:-1 group-title="PELICULAS",Supergirl
+https://delivery-limit-c.123pelicula.com/805f05b870fe71f180dcf7e7c65a0102/fec448383ab94e1ca4e4d980e16e5063-microframe-sd.m3u8?hdnts=exp=1784247260_acl=/805f05b870fe71f180dcf7e7c65a0102/*_hmac=f909f35e4480163f03a80b3f57f55bd8df00364d202c61c4be648bd04a8082a4
+#EXTINF:-1 group-title="PELICULAS",The Punisher: La última muerte
+https://media-limit-xr8a2.peliculaplay.com/006a9d2f4e7d71f1bfb7e7f6371c0102/b3bcf164ac3c4bac8590502b49443d15-microframe-sd.m3u8?hdnts=exp=1784247317_acl=/006a9d2f4e7d71f1bfb7e7f6371c0102/*_hmac=fbf4bf72d26203daf02645aee9735bbafff2daaa8f9979c7438f8642de27bf84
+#EXTINF:-1 group-title="PELICULAS",El último gigante
+https://vod-limit-02.playspelis.com/90d65d1f2db571f1bfe82680f9ea0102/2104d6c1ac6e40c4851fc69b443d6fa2-microframe-sd.m3u8?hdnts=exp=1784247409_acl=/90d65d1f2db571f1bfe82680f9ea0102/*_hmac=abbbb975b3eee7667e47514e4586de8e2906ed0bd812e02d33292b69958ed3d7
+#EXTINF:-1 group-title="PELICULAS",Juerga hasta el fin
+https://delivery-limit-c.123pelicula.com/901d54ec088a71f0bffc5014c1ca0102/79682d150421497b8c21926e65ac2559-e899cdee978a3fe489610f38f0049fdc-sd.m3u8?hdnts=exp=1784247724_acl=/901d54ec088a71f0bffc5014c1ca0102/*_hmac=66264fb9b92fb74e771937e4fa07bd3ad7e49480f8fb031c068fa320c7d5acb2
+#EXTINF:-1 group-title="PELICULAS",Hoppers
+https://vod-limit-stream.dramasfree.com/a0b698a95b1371f1bfcce7f7d46a0102/b5662d3f23e74e4181cb59946c519500-microframe-sd.m3u8?hdnts=exp=1784231047_acl=/a0b698a95b1371f1bfcce7f7d46a0102/*_hmac=9e3ff676b097b05ed9c1675ff43e92964d118f5d9047c3f11f1daed36e1c48a8
+#EXTINF:-1 group-title="PELICULAS",Colony
+https://delivery-limit-c.123pelicula.com/40a25514557f71f19150e7f7c57b0102/b9e2289c30c54f21bfef4403875a77e3-microframe-sd.m3u8?hdnts=exp=1784248048_acl=/40a25514557f71f19150e7f7c57b0102/*_hmac=bc53cb0459347fb114d5812530f14ffc003cb57a626dc590f97c76efc47bba0e
+#EXTINF:-1 group-title="PELICULAS",Peaky Blinders: El hombre inmortal
+https://vod-limit-02.playspelis.com/d055e0e0242e71f18fd287c7361c0102/c02aeaf24a014f1fa138b9df5d4113d7-microframe-sd.m3u8?hdnts=exp=1784248112_acl=/d055e0e0242e71f18fd287c7361c0102/*_hmac=54b4fda82b6e021f9a666041938a583b9945d7280adc0db5982bbe161beae261
+#EXTINF:-1 group-title="PELICULAS",Depredador dominante
+https://delivery-limit-c.123pelicula.com/30a42cca3fc071f1b837e6e6c5490102/cf8a1a41ad0640a3b87647fc8e42e8ff-microframe-sd.m3u8?hdnts=exp=1784248317_acl=/30a42cca3fc071f1b837e6e6c5490102/*_hmac=a5325ea17ce996c9d26e19406e6de5e410882ce4b6fc28feaa2a017a2263dc3c
+#EXTINF:-1 group-title="PELICULAS",Mortal Kombat II
+https://stream-limit-vid.321moviesfree.com/a0549441647471f1a25bf6f7f45a0102/da448b0d97094d64a6e30a9389b0a4b5-microframe-ld.m3u8?hdnts=exp=1784248354_acl=/a0549441647471f1a25bf6f7f45a0102/*_hmac=e2ece90626af8bea369738f0e31d4f40b3ebf004a7208a06c540c995902de595
+#EXTINF:-1 group-title="PELICULAS",Hive
+https://vod-limit-stream.dramasfree.com/30479ad43c8a71f186b05114c0db0102/f74ac12a502d4290b898dab19d554e8b-microframe-sd.m3u8?hdnts=exp=1784244499_acl=/30479ad43c8a71f186b05114c0db0102/*_hmac=41a834b25aa404702ea797c21c34a4279ad4976ed9549d673fdbee07364f1c40
 
 
 # ==================== SECCIÓN: SERIES (CARPETAS SEPARADAS) ====================
 
 # [SERIE] Te encontraré
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 1
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 1
 https://data-limit-c.solo-latino.com/90ac7d816ae871f18125e7e7c4590102/718ce102f4a64e4a96c4f97c1d76e8c1-microframe-sd.m3u8?hdnts=exp=1783717077_acl=/90ac7d816ae871f18125e7e7c4590102/*_hmac=2d030c6af427b3d8a08d44c6af10f74bd8d45a22a4e50c16f236a5f66ffbe2ec
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 2
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 2
 https://data-limit-c.solo-latino.com/a045a68c6ae871f18125e7e7c4590102/f1c96a0f30d2425683700b3bd36fdd3d-microframe-sd.m3u8?hdnts=exp=1783725909_acl=/a045a68c6ae871f18125e7e7c4590102/*_hmac=22a5ce774a1052ce4f4c77abf46294c02b69c0686dc0cd8a3de9e7dfb11360ef
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 3
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 3
 https://data-limit-c.solo-latino.com/10d29b956ae871f1a3aaf6f7f45a0102/d4448ff6b564486b8ba8ee83d43dbc84-microframe-sd.m3u8?hdnts=exp=1783710403_acl=/10d29b956ae871f1a3aaf6f7f45a0102/*_hmac=8550fb2ccb0cd007ceca4f6d5fef0f84fe7c81dcc5ef9b042183287fc021d2aa
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 4
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 4
 https://data-limit-c.solo-latino.com/201bae986ae871f1853ae6e7c74a0102/1e2ad8e9f28843b58429333d747cfa54-microframe-sd.m3u8?hdnts=exp=1783733676_acl=/201bae986ae871f1853ae6e7c74a0102/*_hmac=b4158e10dd281b068ad51826e830d13dc947ca09d5eedf0b55795f2840e0000a
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 5
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 5
 https://data-limit-c.solo-latino.com/40e458d76ae871f1a514f6f7d6580102/1800cccaf6594bd4956d6d72f0805147-microframe-sd.m3u8?hdnts=exp=1783687821_acl=/40e458d76ae871f1a514f6f7d6580102/*_hmac=7ad6135c5e4a5faf0220d07c81392d03143144e59e9524c84c5e7aed12880a62
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 6
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 6
 https://data-limit-c.solo-latino.com/802dcc166ae971f1a5bff6f7c4590102/d47515fc37ba4bf28cb5e886a222aeb5-microframe-sd.m3u8?hdnts=exp=1783733727_acl=/802dcc166ae971f1a5bff6f7c4590102/*_hmac=5f00d7c218f19e943033af70a49de98563fd1804b84c0bb16dfd1f9026cb68c7
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 7
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 7
 https://data-limit-c.solo-latino.com/507d27f16ae871f1a5bff6f7c4590102/67067442458c4caa8dad99a7d85b4855-microframe-sd.m3u8?hdnts=exp=1783708795_acl=/507d27f16ae871f1a5bff6f7c4590102/*_hmac=486d990eee8603d1b66e9caeead4ed8b8d6f41ad9a798d8e9bbb54312b195123
-#EXTINF:-1 group-title="SERIES | Te encontraré",Te encontraré 8
+#EXTINF:-1 group-title="SERIES | Te encontrare",Te encontraré 8
 https://data-limit-c.solo-latino.com/100223106ae971f1a514f6f7d6580102/939e1f0ea52b4291a38679f6fd90910b-microframe-sd.m3u8?hdnts=exp=1783718321_acl=/100223106ae971f1a514f6f7d6580102/*_hmac=62ef0409e1f5fbe223b284a2cad3345919a308a10f3be48682f3e803bda7444a
 
 # [SERIE] The Boys
@@ -351,104 +441,3 @@ https://data-limit-c.solo-latino.com/20026e298c9071f099515014c1ca0102/907bb2f692
 https://data-limit-c.solo-latino.com/d09174298c9071f0999187c7371d0102/ac7cce271e32ed45a326e8abcad499b2-sd.m3u8?hdnts=exp=1784241468_acl=/d09174298c9071f0999187c7371d0102/*_hmac=ec6edb859307ca3f7f10399ea642546fc1d438b06adcceaf17dad67e35bd8b6e
 
 
-# ==================== SECCIÓN: PELÍCULAS (SEPARADAS POR GÉNEROS) ====================
-
-# [PELÍCULAS] Animación / Familiar
-#EXTINF:-1 group-title="PELÍCULAS | Animación",Toy Story 5 calidad cine
-https://vod-limit-02.playspelis.com/b03009916b8f71f180ace6f6c44a0102/9fe7c051bd2946259361f3a2fd51ec65-microframe-sd.m3u8?hdnts=exp=1783732744_acl=/b03009916b8f71f180ace6f6c44a0102/*_hmac=5e98bcff958e0993fde0e280cae993c8b81e7a118b429b3450cdfa5d3a404867
-#EXTINF:-1 group-title="PELÍCULAS | Animación",Las ovejas detectives
-https://delivery-limit-c.123pelicula.com/a0d01bac6faf71f1814fe6f6c55a0102/30fdb3b483794b5f9036890b443324a7-microframe-sd.m3u8?hdnts=exp=1784225804_acl=/a0d01bac6faf71f1814fe6f6c55a0102/*_hmac=f6d85fe6456c4e059606e1955836200a166007fe7257e31460424b4987740ada
-#EXTINF:-1 group-title="PELÍCULAS | Animación",Zootrópolis 2
-https://c4-limit.cuevana4br.com/0082cc9ce94c71f0b7c54177d1c00102/8573f86817634077af98ff9621322ac5-microframe-sd.m3u8?hdnts=exp=1784225862_acl=/0082cc9ce94c71f0b7c54177d1c00102/*_hmac=d001f92dddff93d4e9faaa23ca78240dfb7f1029d1193e06285fc5f342d4b7ff
-#EXTINF:-1 group-title="PELÍCULAS | Animación",Super Mario Galaxy la película
-https://vod-limit-media.123flmsfree.com/303170255b1071f1bfe0f6e7c5680102/2a100334ed0d4cf29e525660ffa66ac7-microframe-sd.m3u8?hdnts=exp=1784248535_acl=/303170255b1071f1bfe0f6e7c5680102/*_hmac=e28d71430a69d23bd4738d77a9ac16808a151738b7956e34e5bd69fa642e749d
-
-# [PELÍCULAS] Drama y Comedia
-#EXTINF:-1 group-title="PELÍCULAS | Drama y Comedia",El diablo viste de Prada 2
-https://data-limit-c.solo-latino.com/c02a2a3d742d71f1818fe6f6c55a0102/e8ad90998465472aad8a435951a20fd1-microframe-sd.m3u8?hdnts=exp=1783711778_acl=/c02a2a3d742d71f1818fe6f6c55a0102/*_hmac=51e397c2969fadf0947c95f6415fe58e9ad8f51f4c3fbda1fbe82f18215600e9
-#EXTINF:-1 group-title="PELÍCULAS | Drama y Comedia",Culpa nuestra
-https://cf-cdn-play.pokiki.com/a0ccc025aa6071f0bd534177d0d10102/bcbbfea3e3578e70a2c2e8d36d6c62f7-sd.m3u8?auth_key=1783619967-ab9bd40ab7374d358cc025dbbcadbc8e-0-2f8715663900491ec374633b201a2f1e&exp=1783706367
-#EXTINF:-1 group-title="PELÍCULAS | Drama y Comedia",La novia del año
-https://vod-limit-media.123flmsfree.com/c0a098ee50ec71f19a7ef7f7c5580102/825a61dc889a43bbb785bdab00893c0b-microframe-sd.m3u8?hdnts=exp=1784247048_acl=/c0a098ee50ec71f19a7ef7f7c5580102/*_hmac=f10a36bd20af5f56a2430f95acb34acfa06a08d6f26c32a3c1359a24989d972e
-#EXTINF:-1 group-title="PELÍCULAS | Drama y Comedia",El lobo de Wall Street
-https://delivery-limit-c.123pelicula.com/60ffbe1ed48471efaf175114c1ca0102/b00fb184b03145dba8cc9bfa87ca8d2e-04f2ec190f884e8e083d0aab40674bc9-sd.m3u8?hdnts=exp=1784247570_acl=/60ffbe1ed48471efaf175114c1ca0102/*_hmac=20e0a08cde897851fe74859595d65622cf6e64cf7fefb8ee7c244fc29581ff9b
-#EXTINF:-1 group-title="PELÍCULAS | Drama y Comedia",Comer, rezar, ladrar
-https://s1.vimeos.net/hls2/03/00010/0klmwrv92bj1_,n,h,.urlset/master.m3u8?t=OEUoVRz1rpwNGkjlrXCfJgneevkWmN32JPbavG1rlQU&s=1783642581&e=43200&v=286341225&i=0.0&sp=0&fr=0klmwrv92bj1&r=e
-
-# [PELÍCULAS] Ciencia Ficción
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",La Guerra Del Mañana
-https://vod-limit-media.123flmsfree.com/1076190866dc71f088534177d0d10102/fa39d556e53244cebfafac0a266c7328-3321c1ea801153d5d7582c669b8f8091-sd.m3u8?hdnts=exp=1784246884_acl=/1076190866dc71f088534177d0d10102/*_hmac=ac4c7422a406b6d49793de0d134eaad2858a013237bb49ecd3f7543b897d2cea
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",La guerra del futuro
-https://media-limit-xr8a2.peliculaplay.com/10597ca39abc71f08d142680f9ea0102/d2d4a1b6d40a2ee4d58144fc90adf017-sd.m3u8?hdnts=exp=1784246882_acl=/10597ca39abc71f08d142680f9ea0102/*_hmac=3b9fc65397314a2f529f238136fd24ab9a1ae18b0d5c3d8a261ca398ce9ff16c
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",Amos del Universo
-https://vod-limit-media.123flmsfree.com/50fe205a62f471f1aeb4e7f7c46b0102/1737d13bb5ae422a9f903baeedcd2234-microframe-sd.m3u8?hdnts=exp=1784241259_acl=/50fe205a62f471f1aeb4e7f7c46b0102/*_hmac=b49d6919edde1a12abdc9b2ddec4fb76d71665e69c21cb2763fa1e2b327afe15
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",El Día del Fin del Mundo
-https://r-limit.flixlat.com/b011cfe22ef271f0bfaf4177d0d10102/5821ec71f382447b9e4792bc3fad27cf-0d109071ac3f10bc9dcb449c9a8d1b19-sd.m3u8?hdnts=exp=1784239654_acl=/b011cfe22ef271f0bfaf4177d0d10102/*_hmac=6181d4afe1a29041f80b213c116d69e6e558c5ec666d8c7d36e5cdf259a06638
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",El día del fin del mundo: Migración
-https://r-limit.flixlat.com/00b64572058071f18d4036a5e8aa0102/986ddb5ce3e3454c94242f93cac0a7b1-microframe-sd.m3u8?hdnts=exp=1784247213_acl=/00b64572058071f18d4036a5e8aa0102/*_hmac=e26208ac5e20f1434590d8e5cf8dcb5190e63bd6f724610d5c81e5d5bd9b8a9f
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",Avatar: Fuego y ceniza
-https://vod-limit-media.123flmsfree.com/d03a981f2ce171f190884077c0c30102/9b3b2866a23f4078ad68b7c1f49dfa63-microframe-sd.m3u8?hdnts=exp=1784244775_acl=/d03a981f2ce171f190884077c0c30102/*_hmac=1c5af6aea92a9d967268f84731a188484746ff3d860acaa18571979bb0e4dd69
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",Jurassic World: El renacer
-https://vod-limit-stream.dramasfree.com/e01205cd78de71f0bfc487c7361c0102/7039d964b0202d82da2cfa489f96e37f-sd.m3u8?hdnts=exp=1784209231_acl=/e01205cd78de71f0bfc487c7361c0102/*_hmac=06afdac10cbeedac8872e2bdaeac483b25db85bbf37b6656ee5275e35fdbf95d
-#EXTINF:-1 group-title="PELÍCULAS | Ciencia Ficción",Proyecto Salvación
-https://vod-limit-02.playspelis.com/f06f306f59a471f1bfb7e7f66c4490102/28ce8b2b1fc346b0a4e0cea9a5f5138c-microframe-sd.m3u8?hdnts=exp=1784248441_acl=/f06f306f59a471f1bfb7e7f6c4490102/*_hmac=967c54d53dbe9d4e2f81ac96ee17a47af935d7ccb625176047714d5217defafc
-
-# [PELÍCULAS] Terror y Suspenso
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",Destino final lazos de sangre
-https://stream-limit-vid.321moviesfree.com/409cc9b4555871f0a08536a5e8aa0102/99535d8198e0efc6a2b5aacabeb644d7-sd.m3u8?hdnts=exp=1784246584_acl=/409cc9b4555871f0a08536a5e8aa0102/*_hmac=3018e57c79b06419daa3b6d73dd224e15a7388725e7da00753e5b80c886eca96
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",El abismo secreto
-https://s14.vimeos.net/hls2/03/00000/ne4kvx1q57pn_,n,h,.urlset/master.m3u8?t=GPtuAilpvGnE1p1Fum_Qg6Yse2nkQi7tyYRL1sltKeg&s=1783642171&e=43200&v=286333027&i=0.3&sp=0&r=e
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",Obsesión
-https://vod-limit-media.123flmsfree.com/105f2308744471f18585e6e7c74a0102/ad391f8f68e04b30856ba3e2f126b8fa-microframe-ld.m3u8?hdnts=exp=1784247017_acl=/105f2308744471f18585e6e7c74a0102/*_hmac=912675f68c746e71ac8fdbe48a1eb49768474ff3e55f38182443eb35aee5bc01
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",La boda maldita
-https://vod-limit-02.playspelis.com/a01838a1693471f19613f6e6c5490102/e52c94f664aa4b659c331340b3fb9e03-microframe-sd.m3u8?hdnts=exp=1784247502_acl=/a01838a1693471f19613f6e6c5490102/*_hmac=2b82afd8c707ce6428a8b607187adcb78a23d2a60b5adb83fc9523062b0dd463
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",El día de la revelación
-https://vod-limit-res.cuevana.life/c01e3851706b71f1a55cf6f7d6580102/838ea227eed24a84aff82dfdeb37ff14-microframe-sd.m3u8?hdnts=exp=1784247611_acl=/c01e3851706b71f1a55cf6f7d6580102/*_hmac=b11236b440c4df23610ea1b9fab319f26a0abb5a0c31f0a364ed4e72b186af18
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",La bruja
-https://vod-limit-stream.dramasfree.com/d0dab3ae500071f0864b2680f9ea0102/14836788aaf1402e97ffadcc592a0eea-9daf8709f3beffcc86e3d61b09926c45-sd.m3u8?hdnts=exp=1784248580_acl=/d0dab3ae500071f0864b2680f9ea0102/*_hmac=ae3d5a4aee563eb2e5f71d7408278c6c7e32eac917e8d1c861e747dc4e87d1f9
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",Nadie va a escuchar tu grito
-https://data-limit-c.solo-latino.com/800b681e51bd71f1b271f6e6d44a0102/7d9408bfae8b4f3ab5e47aa0ef454a1c-microframe-sd.m3u8?hdnts=exp=1784248650_acl=/800b681e51bd71f1b271f6e6d44a0102/*_hmac=8268f4ff68fe6563025ec4d36f4ec8613ff12b761e4469d4502242a218d390a5
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",M3GAN
-https://data-limit-c.solo-latino.com/104eb3cf28bd71f0801436a5e8aa0102/ab7586c1d4c5d41a71a9cd3090fb8b75-sd.m3u8?hdnts=exp=1784248720_acl=/104eb3cf28bd71f0801436a5e8aa0102/*_hmac=1fba47ee4f7b38ebd6370401a80ed659953a7e1f099c1c66dda4c5de332b9e1d
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",M3GAN 2.0
-https://data-limit-c.solo-latino.com/50fad5c98d2771f08f9d5114c1ca0102/b778c3cb51962457d642faadb13871cf-sd.m3u8?hdnts=exp=1784221290_acl=/50fad5c98d2771f08f9d5114c1ca0102/*_hmac=12d8d706bfe260142cfc9e515a5d39018d856a666d90e9fd09897a3422f4b83a
-#EXTINF:-1 group-title="PELÍCULAS | Terror y Suspenso",Backrooms
-https://vod-limit-res.cuevana.life/304c1ed85bf771f1bf99e6f6c55a0102/c5e553686a25421d9dfac43e6e51ef9c-microframe-sd.m3u8?hdnts=exp=1784243942_acl=/304c1ed85bf771f1bf99e6f6c55a0102/*_hmac=e5bb7ed6900119818d1e5d3861a401b2b77b952eab6cdc76b3cff6f11b7e6e41
-
-# [PELÍCULAS] Scary Movie Colección
-#EXTINF:-1 group-title="PELÍCULAS | Scary Movie Colección",Scary Movie
-https://media-limit-xr8a2.peliculaplay.com/e02d1614f82d71f080072680f9ea0102/11bf1fa46e2a462bae9719c1ee5af668-microframe-sd.m3u8?hdnts=exp=1784247810_acl=/e02d1614f82d71f080072680f9ea0102/*_hmac=c435c551ad5d8db875cb53d7015f2064211e4b990e3fe41f728e34f08b36c9ce
-#EXTINF:-1 group-title="PELÍCULAS | Scary Movie Colección",Scary Movie 2
-https://media-limit-xr8a2.peliculaplay.com/70f438a22fd071f0885f2680f9ea0102/8ca1ee7db60f4e609b2aca6698834d71-a01e56ab6cfe96c9417b17aaf9d61797-sd.m3u8?hdnts=exp=1784247840_acl=/70f438a22fd071f0885f2680f9ea0102/*_hmac=ce0cca1ba2ca87d7a322d4ed2120d625fa2e333076f47cc2f0b829c510e6efc8
-#EXTINF:-1 group-title="PELÍCULAS | Scary Movie Colección",Scary Movie 3
-https://media-limit-xr8a2.peliculaplay.com/40eb0020f50871f0800f97c6360c0102/2107a16920694d1e89259b733418d0b7-microframe-sd.m3u8?hdnts=exp=1784247868_acl=/40eb0020f50871f0800f97c6360c0102/*_hmac=464bef6c401cc2e8bb051db8b4cd6d0b6998850a9068864cedeff1f9b2f711fd
-#EXTINF:-1 group-title="PELÍCULAS | Scary Movie Colección",Scary Movie 4
-https://media-limit-xr8a2.peliculaplay.com/00b64ae32fd171f0bfdd87c6371c0102/ba63e4137de945ef84286230784492ac-c010099bbd28173b4002c96cf5be02ab-sd.m3u8?hdnts=exp=1784247896_acl=/00b64ae32fd171f0bfdd87c6371c0102/*_hmac=aacd8cec3eab0fdc1811be5353f5ac36e546cab1875b8d76f50c7a1de77a7fe6
-#EXTINF:-1 group-title="PELÍCULAS | Scary Movie Colección",Scary Movie 5
-https://media-limit-xr8a2.peliculaplay.com/407deaa92fd271f0bfe897c6360c0102/3a4cac5cf3ff4f4c8e756564c13bc889-1bfa1fe862931453000bc97fbe098f58-sd.m3u8?hdnts=exp=1784247925_acl=/407deaa92fd271f0bfe897c6360c0102/*_hmac=40495fec14caa0a49207fd0363ea5d15fe101903a4bdfaa0a5160db419fbaa06
-#EXTINF:-1 group-title="PELÍCULAS | Scary Movie Colección",Scary Movie 2026
-https://media-limit-xr8a2.peliculaplay.com/e0d2c11d608371f18f72e6f7d4580102/53083b9b88fb4c62bcf27ce260d0798d-microframe-sd.m3u8?hdnts=exp=1784233231_acl=/e0d2c11d608371f18f72e6f7d4580102/*_hmac=fdae29765d293cae10ef89eb0d1f547efc6d7490f9e3c65f8ae8b6bfede9433b
-
-# [PELÍCULAS] Acción
-#EXTINF:-1 group-title="PELÍCULAS | Acción",En la Ruta del Crimen
-https://c4-limit.cuevana4br.com/00e79496dfc71f18543e6e7c74a0102/b0500c0f94da4a8d908965c9dbae8ccb-microframe-sd.m3u8?hdnts=exp=1784246845_acl=/f0ee79496dfc71f18543e6e7c74a0102/*_hmac=3bd2d542d2b5aacb0a71e560772d464974848214fe995d00d5642f719159535f
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Supergirl
-https://delivery-limit-c.123pelicula.com/805f05b870fe71f180dcf7e7c65a0102/fec448383ab94e1ca4e4d980e16e5063-microframe-sd.m3u8?hdnts=exp=1784247260_acl=/805f05b870fe71f180dcf7e7c65a0102/*_hmac=f909f35e4480163f03a80b3f57f55bd8df00364d202c61c4be648bd04a8082a4
-#EXTINF:-1 group-title="PELÍCULAS | Acción",The Punisher: La última muerte
-https://media-limit-xr8a2.peliculaplay.com/006a9d2f4e7d71f1bfb7e7f6371c0102/b3bcf164ac3c4bac8590502b49443d15-microframe-sd.m3u8?hdnts=exp=1784247317_acl=/006a9d2f4e7d71f1bfb7e7f6371c0102/*_hmac=fbf4bf72d26203daf02645aee9735bbafff2daaa8f9979c7438f8642de27bf84
-#EXTINF:-1 group-title="PELÍCULAS | Acción",El último gigante
-https://vod-limit-02.playspelis.com/90d65d1f2db571f1bfe22680f9ea0102/2104d6c1ac6e40c4851fc69b443d6fa2-microframe-sd.m3u8?hdnts=exp=1784247409_acl=/90d65d1f2db571f1bfe22680f9ea0102/*_hmac=abbbb975b3eee7667e47514e4586de8e2906ed0bd812e02d33292b69958ed3d7
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Juerga hasta el fin
-https://delivery-limit-c.123pelicula.com/901d54ec088a71f0bffc5014c1ca0102/79682d150421497b8c21926e65ac2559-e899cdee978a3fe489610f38f0049fdc-sd.m3u8?hdnts=exp=1784247724_acl=/901d54ec088a71f0bffc5014c1ca0102/*_hmac=66264fb9b92fb74e771937e4fa07bd3ad7e49480f8fb031c068fa320c7d5acb2
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Hoppers
-https://vod-limit-stream.dramasfree.com/a0b698a95b1371f1bfcce7f7d46a0102/b5662d3f23e74e4181cb59946c519500-microframe-sd.m3u8?hdnts=exp=1784231047_acl=/a0b698a95b1371f1bfcce7f7d46a0102/*_hmac=9e3ff676b097b05ed9c1675ff43e92964d118f5d9047c3f11f1daed36e1c48a8
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Colony
-https://delivery-limit-c.123pelicula.com/40a25514557f71f19150e7f7c57b0102/b9e2289c30c54f21bfef4403875a77e3-microframe-sd.m3u8?hdnts=exp=1784248048_acl=/40a25514557f71f19150e7f7c57b0102/*_hmac=bc53cb0459347fb114d5812530f14ffc003cb57a626dc590f97c76efc47bba0e
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Peaky Blinders: El hombre inmortal
-https://vod-limit-02.playspelis.com/d055e0e0242e71f18fd287c7361c0102/c02aeaf24a014f1fa138b9df5d4113d7-microframe-sd.m3u8?hdnts=exp=1784248112_acl=/d055e0e0242e71f18fd287c7361c0102/*_hmac=54b4fda82b6e021f9a666041938a583b9945d7280adc0db5982bbe161beae261
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Depredador dominante
-https://delivery-limit-c.123pelicula.com/30a42cca3fc071f1b837e6e6c5490102/cf8a1a41ad0640a3b87647fc8e42e8ff-microframe-sd.m3u8?hdnts=exp=1784248317_acl=/30a42cca3fc071f1b837e6e6c5490102/*_hmac=a5325ea17ce996c9d26e19406e6de5e410882ce4b6fc28feaa2a017a2263dc3c
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Mortal Kombat II
-https://stream-limit-vid.321moviesfree.com/a0549441647471f1a25bf6f7f45a0102/da448b0d97094d64a6e30a9389b0a4b5-microframe-ld.m3u8?hdnts=exp=1784248354_acl=/a0549441647471f1a25bf6f7f45a0102/*_hmac=e2ece90626af8bea369738f0e31d4f40b3ebf004a7208a06c540c995902de595
-#EXTINF:-1 group-title="PELÍCULAS | Acción",Hive
-https://vod-limit-stream.dramasfree.com/30479ad43c8a71f186b05114c0db0102/f74ac12a502d4290b898dab19d554e8b-microframe-sd.m3u8?hdnts=exp=1784244499_acl=/30479ad43c8a71f186b05114c0db0102/*_hmac=41a834b25aa404702ea797c21c34a4279ad4976ed9549d673fdbee07364f1c40
