@@ -313,6 +313,10 @@ http://181.224.255.210:8001/play/a0sf/index.m3u8
 
 
 # ==================== CARPETA ÚNICA: PELÍCULAS ====================
+#EXTINF:-1 group-title="PELICULAS",PROYECTO FIN DEL MUNDO
+https://pixeldrain.com/api/file/J6mLFPeR
+#EXTINF:-1 group-title="PELICULAS",MIKE Y NICK Y NICK Y ALICE
+https://pixeldrain.com/api/file/YnfWYvfW
 #EXTINF:-1 group-title="PELICULAS",PROYECTO: EL INTERNADO
 https://pixeldrain.com/api/file/yEChnELD
 #EXTINF:-1 group-title="PELICULAS",LOBOS
