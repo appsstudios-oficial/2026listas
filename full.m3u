@@ -313,8 +313,14 @@ http://181.224.255.210:8001/play/a0sf/index.m3u8
 
 
 # ==================== CARPETA ÚNICA: PELÍCULAS ====================
-#EXTINF:-1 group-title="PELICULAS",Toy Story 5 calidad cine
-https://vod-limit-02.playspelis.com/b03009916b8f71f180ace6f6c44a0102/9fe7c051bd2946259361f3a2fd51ec65-microframe-sd.m3u8?hdnts=exp=1783732744_acl=/b03009916b8f71f180ace6f6c44a0102/*_hmac=5e98bcff958e0993fde0e280cae993c8b81e7a118b429b3450cdfa5d3a404867
+#EXTINF:-1 group-title="PELICULAS",PROYECTO: EL INTERNADO
+https://pixeldrain.com/api/file/yEChnELD
+#EXTINF:-1 group-title="PELICULAS",LOBOS
+https://pixeldrain.com/api/file/rDrS4Bw9
+#EXTINF:-1 group-title="PELICULAS",LICENCIA PARA ROBAR
+https://pixeldrain.com/api/file/Xd9AAApj
+#EXTINF:-1 group-title="PELICULAS",Toy Story 5
+https://pixeldrain.com/api/file/wZr5Xa1W
 #EXTINF:-1 group-title="PELICULAS",Las ovejas detectives
 https://delivery-limit-c.123pelicula.com/a0d01bac6faf71f1814fe6f6c55a0102/30fdb3b483794b5f9036890b443324a7-microframe-sd.m3u8?hdnts=exp=1784225804_acl=/a0d01bac6faf71f1814fe6f6c55a0102/*_hmac=f6d85fe6456c4e059606e1955836200a166007fe7257e31460424b4987740ada
 #EXTINF:-1 group-title="PELICULAS",Zootrópolis 2
