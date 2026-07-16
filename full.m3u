@@ -1,6 +1,12 @@
 #EXTM3U
 
 # ==================== CARPETA: TELEVISION EN VIVO ====================
+#EXTINF:-1 group-title="Television en Vivo",Star Channel HD
+http://181.224.255.210:8001/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",Comedy Central HD
+http://181.224.255.210:8001/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",A&E HD
+http://181.224.255.210:8001/play/a0edfhg/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",00 - 24/7
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8#1269b3957dab9a86f72ec36c4d6c4f382e9021369de3a5c7a2c4cec35d74e395
 #EXTINF:-1 group-title="Television en Vivo",00 - Canal 26
@@ -63,8 +69,6 @@ http://181.224.255.210:8001/play/a0pj/index.m3u8
 http://181.224.255.210:8001/play/a0r8/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",4.1 Latina HD
 http://181.224.255.210:8001/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",A&E HD
-http://181.224.255.210:8001/play/a0edfhg/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",A1 TV
 http://181.224.255.210:8001/play/a0rz/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",AMC HD
@@ -99,8 +103,6 @@ http://181.224.255.210:8001/play/a0ml/index.m3u8
 http://181.224.255.210:8001/play/a0ob/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Cinemax HD
 http://181.224.255.210:8001/play/a0mk/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",Comedy Central HD
-http://181.224.255.210:8001/play/a0ew/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",DHE HD
 http://181.224.255.210:8001/play/a0nt/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",DW Espaæol
@@ -108,7 +110,7 @@ http://181.224.255.210:8001/play/a0rj/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",De PelŦcula
 http://181.224.255.210:8001/play/a0qy/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Discovery Channel  HD
-http://181.224.255.210:8001/play/a0m0/index.m3u8
+http://38.199.4.105:9999/play/a0mh/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Discovery Kids HD
 http://181.224.255.210:8001/play/a0pv/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Discovery Science
@@ -116,9 +118,23 @@ http://181.224.255.210:8001/play/a0mo/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Discovery Theater HD
 http://181.224.255.210:8001/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Discovery Turbo
-http://181.224.255.210:8001/play/a0q2/index.m3u8
+http://38.199.4.105:9999/play/a0ah/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Discovery World HD
 http://181.224.255.210:8001/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",HGTV
+http://181.224.255.210:8001/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",HTV
+http://181.224.255.210:8001/play/a0qo/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",History 2
+http://181.224.255.210:8001/play/a0qh/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",History Channel HD
+http://181.224.200.5:2277/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",Nat Geo HD
+http://181.224.255.210:8001/play/a0m2/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",ID HD
+http://181.224.255.210:8001/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="Television en Vivo",Home & Health HD
+http://181.224.255.210:8001/play/a0st/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Disney Channel HD
 http://181.224.255.210:8001/play/a0oe/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Disney Jr.
@@ -154,7 +170,7 @@ http://181.224.255.210:8001/play/a0qg/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",HBO Family HD
 http://181.224.255.210:8001/play/a0nv/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",HBO HD
-http://181.224.255.210:8001/play/a0f161/index.m3u8
+http://38.199.4.105:9999/play/a0p1/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",HBO Mundi
 http://181.224.255.210:8001/play/a0rf/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",HBO POP
@@ -169,18 +185,6 @@ http://181.224.255.210:8001/play/a0nw/index.m3u8
 http://181.224.255.210:8001/play/a0oo/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",HEI HD
 http://181.224.255.210:8001/play/a0sg/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",HGTV
-http://181.224.255.210:8001/play/a0mp/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",HTV
-http://181.224.255.210:8001/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",History 2
-http://181.224.255.210:8001/play/a0qh/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",History Channel HD
-http://181.224.200.5:2277/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",Home & Health HD
-http://181.224.255.210:8001/play/a0st/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",ID HD
-http://181.224.255.210:8001/play/a0m9/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Kanal D Drama
 http://181.224.255.210:8001/play/a0sq/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Las Estrellas HD
@@ -191,8 +195,6 @@ http://181.224.255.210:8001/play/a0sr/index.m3u8
 http://181.224.255.210:8001/play/a0f9/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",NTN24
 http://181.224.255.210:8001/play/a0qp/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",Nat Geo HD
-http://181.224.255.210:8001/play/a0m2/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Nick HD
 http://181.224.255.210:8001/play/a0fm/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Nick Jr
@@ -217,8 +219,6 @@ http://181.224.255.210:8001/play/a0rs/index.m3u8
 http://181.224.255.210:8001/play/a0oc/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Space HD
 http://181.224.255.210:8001/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="Television en Vivo",Star Channel HD
-http://181.224.255.210:8001/play/a0oh/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Studio Universal HD
 http://181.224.255.210:8001/play/a0sc/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Sun Channel HD
@@ -295,8 +295,6 @@ http://38.199.4.105:9999/play/a0gr/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7 HD
 http://38.199.4.105:9999/play/a0hj/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Premium HD
-http://181.224.255.210:8001/play/a0pt/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN (Premium HD)
 http://38.199.4.105:9999/play/a0i9/index.m3u8
 #EXTINF:-1 group-title="Deportes",1118. LIGA 1 MAX
 http://38.199.4.105:9999/play/1118/index.m3u8
