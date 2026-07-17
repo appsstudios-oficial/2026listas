@@ -32,9 +32,9 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8#f
 #EXTINF:-1 group-title="Television en Vivo",Cosmos tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Television en Vivo",RetroPlus
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Television en Vivo",Tv Retro
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
+#EXTINF:-1 group-title="Television en Vivo",Retro Tv Online
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
 #EXTINF:-1 group-title="Television en Vivo",Retrox
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:-1 group-title="Television en Vivo",TVS Retro
