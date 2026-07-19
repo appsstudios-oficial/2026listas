@@ -272,8 +272,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8#b06f1fofac96a94ef4604f24c9f9b020702
 
 
 # ==================== CARPETA: DEPORTES ====================
-#EXTINF:-1 group-title="Deportes",TUDN Mx
-https://mi-telefe-iptv.onrender.com/telefe.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS (opción2)
