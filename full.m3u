@@ -278,13 +278,17 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://181.78.0.107:8006/play/a08r/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS (opción3)
 http://181.224.255.210:8001/play/a0s8/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS + ( opción2)
+#EXTINF:-1 group-title="Deportes",DSPORTS +
 http://181.78.0.107:8006/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS HD
 http://38.199.4.105:9999/play/1119/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS 2
-https://vinix.inproviszon.st/main/secure/765fde878c57e7a664869b47725d85ce9c225b55e21cc481d29a28fbabd27fc7/1783919871/dsports-ar.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports Premiun HD
+#EXTINF:-1 group-title="Deportes",WIN SPORTS
+http://205.235.6.29:8000/play/a10e/index.m3u8
+#EXTINF:-1 group-title="Deportes",CANAL MUNDIAL
+http://205.235.6.29:8000/play/a10f/index.m3u8
+#EXTINF:-1 group-title="Deportes",EVENTOS
+http://205.235.6.29:8000/play/a0y3/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports
 http://38.199.4.105:9999/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN HD
 http://38.199.4.105:9999/play/a0wv/index.m3u8
